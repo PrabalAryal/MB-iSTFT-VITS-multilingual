@@ -70,11 +70,11 @@ def run(rank, n_gpus, hps):
   train_sampler = DistributedBucketSampler(
       train_dataset,
       hps.train.batch_size,
-      [32,300,400,500,600,700,800,900,1000],
+      [32,300,400,500,600,700,800],
       num_replicas=n_gpus,
       rank=rank,
       shuffle=True)
-  collate_fn = TextAudioCollate()
+  collate_fn = TextAudioCollate(pad_multiple=8)
   train_loader = DataLoader(train_dataset, num_workers=8, shuffle=False, pin_memory=True,
       collate_fn=collate_fn, batch_sampler=train_sampler)
   if rank == 0:

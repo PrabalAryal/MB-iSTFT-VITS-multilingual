@@ -1,0 +1,1591 @@
+nl_audio/00001.wav|Na de storm werd er melding gemaakt van glasschade aan meerdere ramen in het appartementencomplex.
+nl_audio/00002.wav|De nooddienstmedewerker heeft de deur van de parkeergarage geopend toen bewoners zichzelf hadden buitengesloten.
+nl_audio/00003.wav|De verzekering dekt de kosten van de glasschade, mits er direct aangifte wordt gedaan en foto's worden aangeleverd.
+nl_audio/00004.wav|Tijdens het weekend is er altijd een nooddienstmedewerker beschikbaar voor urgente reparaties aan het gebouw.
+nl_audio/00005.wav|Voor de gewone reparaties aan deuren en ramen wordt vaak een lokale klusjesman ingeschakeld.
+nl_audio/00006.wav|In het appartementencomplex is onlangs ingebroken, waarbij een ruit van het bellenplateau werd vernield.
+nl_audio/00007.wav|Waterdruk.
+nl_audio/00008.wav|De deurdranger van de branddeur in het trappenhuis moest worden vervangen omdat hij niet goed meer sloot.
+nl_audio/00009.wav|Na de diefstal van gereedschap op de bouwplaats deed de uitvoerder direct aangifte bij de politie.
+nl_audio/00010.wav|Elke melding van geluidsoverlast wordt door de vve serieus genomen en opgevolgd.
+nl_audio/00011.wav|Tijdens de bouwvergadering werden de mogelijkheden voor extra parkeerruimte rondom het complex besproken.
+nl_audio/00012.wav|Bewoners klagen over onvoldoende ventilatie in de parkeergarage, vooral tijdens drukke avonden.
+nl_audio/00013.wav|Tijdens de ledenvergadering stemde de vve in met de aanleg van nieuwe zonnepanelen op het dak.
+nl_audio/00014.wav|Betreft uw aanvraag voor extra parkeerplekken: deze wordt besproken tijdens de volgende vve-vergadering.
+nl_audio/00015.wav|In het appartementencomplex is onlangs ingebroken, waarbij een ruit van het bellenplateau werd vernield.
+nl_audio/00016.wav|Bij schade aan de huurwoning door een brand is het belangrijk dat de huurder zo snel mogelijk aangifte doet voor de verzekering.
+nl_audio/00017.wav|De intercominstallatie in het appartementencomplex werd vernieuwd voor betere communicatie tussen bewoners en bezoekers.
+nl_audio/00018.wav|De nooddienstmedewerker heeft de deur van de parkeergarage geopend toen bewoners zichzelf hadden buitengesloten.
+nl_audio/00019.wav|Tijdens de renovatie werden gevaarlijke elektrische installaties veiliggesteld om ongevallen te voorkomen.
+nl_audio/00020.wav|Bij het invullen van het formulier voor subsidie op woningisolatie kreeg de architect een foutmelding: "dit antwoord herken ik niet – probeer het opnieuw.".
+nl_audio/00021.wav|Herken.
+nl_audio/00022.wav|Tijdens de renovatie werd de aansluiting bij de energieleverancier aangepast voor zonnepanelen op het dak.
+nl_audio/00023.wav|Breman verzorgt het jaarlijkse onderhoud van de technische installaties in het appartementencomplex.
+nl_audio/00024.wav|Voor de oplevering van het nieuwe complex werd een stekkertest uitgevoerd om elektrische problemen te voorkomen.
+nl_audio/00025.wav|Er zijn mogelijkheden om het onderhoudscontract uit te breiden met periodieke controles op de verwarmingsinstallatie.
+nl_audio/00026.wav|Bij het aanpassen van de toegangscontrole werd het bellenplateau gekoppeld aan het nieuwe beveiligingssysteem.
+nl_audio/00027.wav|Ik herken de problemen met de ventilatie, omdat dezelfde klachten eerder al zijn gemeld door bewoners.
+nl_audio/00028.wav|De electriciën voerde een stekkertest uit om te controleren of alle stopcontacten veilig zijn.
+nl_audio/00029.wav|De gekoppelde appartementen delen één gemeenschappelijke rioolafvoer, wat regelmatig onderhoud vereist.
+nl_audio/00030.wav|De huurder werd gevraagd om contact op te nemen met de technische dienst voor het plannen van de reparatieafspraak.
+nl_audio/00031.wav|Tijdens de inspectie ontdekte het onderhoudsteam een kleine lekkage bij de verwarmingsinstallatie.
+nl_audio/00032.wav|Voordat de gevel mag worden aangepast, moet u contact opnemen met de gemeente voor een bouwvergunning.
+nl_audio/00033.wav|De woningcorporatie ontving meerdere meldingen over gladheid op de galerij tijdens vorst en besloot antislipstroken aan te brengen.
+nl_audio/00034.wav|De bewoners kregen een brief van de energieleverancier over de jaarlijkse meterstanden en tarieven.
+nl_audio/00035.wav|Uitbelacties.
+nl_audio/00036.wav|De gewone stroomvoorziening in het gebouw wordt regelmatig gecontroleerd om storingen te voorkomen.
+nl_audio/00037.wav|De bewoners kregen een brief van de energieleverancier over de jaarlijkse meterstanden en tarieven.
+nl_audio/00038.wav|De intercom maakt het mogelijk om bezoekers op afstand binnen te laten zonder de deur fysiek te openen.
+nl_audio/00039.wav|De energierekening van het appartementencomplex werd mede bepaald door de tarieven van de gasleverancier.
+nl_audio/00040.wav|Na de melding van schade aan de galerij werd er snel een reparatieteam ingezet.
+nl_audio/00041.wav|De gewone stroomvoorziening in het gebouw wordt regelmatig gecontroleerd om storingen te voorkomen.
+nl_audio/00042.wav|Herken.
+nl_audio/00043.wav|Tijdens de bouwvergadering herkende de architect een fout in de tekeningen die nog aangepast moest worden.
+nl_audio/00044.wav|Electriciën.
+nl_audio/00045.wav|Na de storingsmelding werden er uitbelacties uitgevoerd om te controleren of alle bewoners weer toegang hadden tot het complex.
+nl_audio/00046.wav|Tijdens het klussen op de bouwplaats gebruikte de elektricien een stevig verlengsnoer om de gereedschappen van stroom te voorzien.
+nl_audio/00047.wav|Bij problemen met de stroomvoorziening konden bewoners contact opnemen met hun energieleverancier.
+nl_audio/00048.wav|Bij een stroomstoring in het complex zorgde de nooddienstmedewerker voor snelle hulp en tijdelijke oplossingen.
+nl_audio/00049.wav|Bij het testen van het alarmsysteem werd gecontroleerd of mensen niet onbedoeld opgesloten konden raken.
+nl_audio/00050.wav|Tijdens de inspectie werden labels en tags gebruikt om beschadigde onderdelen te markeren voor reparatie.
+nl_audio/00051.wav|De stekkertest gaf aan dat één van de verlengsnoeren vervangen moest worden vanwege beschadiging.
+nl_audio/00052.wav|Bij de renovatie van het complex werd speciale aandacht besteed aan de brandveiligheid en vluchtwegen.
+nl_audio/00053.wav|Tijdens de renovatie van het gebouw werd een nieuw digitaal intercomsysteem geïnstalleerd.
+nl_audio/00054.wav|Bij lekkage of stroomuitval buiten kantooruren moet u contact opnemen met de storingsdienst.
+nl_audio/00055.wav|Naast speciale onderhoudswerkzaamheden worden ook gewone schoonmaakbeurten ingepland voor het trappenhuis.
+nl_audio/00056.wav|De onderhoudsdienst heeft een overzicht gemaakt van alle gebreken binnen het wooncomplex.
+nl_audio/00057.wav|De vve schakelde een extern bureau in voor het uitvoeren van een veiligheidsinspectie in het wooncomplex.
+nl_audio/00058.wav|Betreft het appartementscomplex aan de molenstraat, de galerij wordt volgende week gerenoveerd.
+nl_audio/00059.wav|Na de storingsmelding werden er uitbelacties uitgevoerd om te controleren of alle bewoners weer toegang hadden tot het complex.
+nl_audio/00060.wav|Herken.
+nl_audio/00061.wav|Uitbelacties.
+nl_audio/00062.wav|Na de melding van schade aan de galerij werd er snel een reparatieteam ingezet.
+nl_audio/00063.wav|Blok.
+nl_audio/00064.wav|Tijdens de renovatie werden nieuwe sloten geplaatst nadat er was ingebroken in enkele woningen.
+nl_audio/00065.wav|Bij de renovatie werd extra aandacht besteed aan de mechanische installaties voor optimale energie-efficiëntie.
+nl_audio/00066.wav|Bewoners kunnen een reparatie aanvragen als de wasmachine in hun woning niet goed werkt.
+nl_audio/00067.wav|De lekkage in de kelder werd veroorzaakt door een beschadigde waterleiding en moet snel worden gerepareerd.
+nl_audio/00068.wav|Voor de installatie van duurzame energieoplossingen werkt de woningcorporatie samen met breman.
+nl_audio/00069.wav|Tijdens het plaatsen van een nieuwe kozijnconstructie ontstond er per ongeluk glasschade, wat het project met een dag vertraagde.
+nl_audio/00070.wav|De parkeergarage was tijdelijk afgesloten vanwege onderhoudswerkzaamheden aan het ventilatiesysteem.
+nl_audio/00071.wav|Na het ingebroken te zijn, heeft de vve extra beveiligingsmaatregelen laten installeren bij de hoofdingang.
+nl_audio/00072.wav|Bewoners kunnen via de app een melding maken van defecte verlichting in het trappenhuis.
+nl_audio/00073.wav|Het loodgietersbedrijf kwam langs om lekkages bij de wasmachine-aansluiting te verhelpen.
+nl_audio/00074.wav|De gasleverancier werd ingeschakeld om de aansluiting voor de nieuwe verwarmingsketel te regelen.
+nl_audio/00075.wav|Bij schade aan de huurwoning door een brand is het belangrijk dat de huurder zo snel mogelijk aangifte doet voor de verzekering.
+nl_audio/00076.wav|Door de aanleg van een ondergrondse parkeergarage wordt het aantal beschikbare parkeerplekken flink uitgebreid.
+nl_audio/00077.wav|Voor de installatie van de nieuwe meterkast werd een gecertificeerde electriciën ingehuurd.
+nl_audio/00078.wav|De nooddienstmedewerker heeft de deur van de parkeergarage geopend toen bewoners zichzelf hadden buitengesloten.
+nl_audio/00079.wav|De vastgoedbeheerder onderzocht de mogelijkheden om lege kavels te benutten voor tijdelijke huisvesting.
+nl_audio/00080.wav|Waterdruk.
+nl_audio/00081.wav|Bij storingen aan de gasleiding kunnen bewoners direct contact opnemen met de gasleverancier.
+nl_audio/00082.wav|Tijdens de renovatie werd het deel van het complex met bouwhekken afgesloten om de veiligheid te waarborgen.
+nl_audio/00083.wav|Tijdens de vergadering over het onderhoudsrapport reageerde de projectleider: "dit antwoord herken ik niet, kunnen we dat nogmaals controleren in het systeem?".
+nl_audio/00084.wav|Blok.
+nl_audio/00085.wav|Vve.
+nl_audio/00086.wav|Vanwege de lekkage op de bovenste etage werd de galerij tijdelijk afgesloten voor bewoners.
+nl_audio/00087.wav|De woningcorporatie heeft een contract afgesloten met een lokaal loodgietersbedrijf voor spoedreparaties.
+nl_audio/00088.wav|Bij storingen in de elektriciteitsvoorziening schakelde de woningcorporatie direct een electriciën in.
+nl_audio/00089.wav|De vastgoedbeheerder kreeg klachten over onvoldoende parkeerplekken tijdens evenementen in de wijk.
+nl_audio/00090.wav|Voor het aansluiten van tijdelijke verlichting gebruikte de klusploeg een extra lang verlengsnoer.
+nl_audio/00091.wav|Douche.
+nl_audio/00092.wav|De bewoners kregen een brief van de energieleverancier over de jaarlijkse meterstanden en tarieven.
+nl_audio/00093.wav|De waterleiding in het gebouw werd afgesloten om een lekkage te kunnen repareren zonder verdere schade.
+nl_audio/00094.wav|Tijdens de bouwvergadering werden de mogelijkheden voor extra parkeerruimte rondom het complex besproken.
+nl_audio/00095.wav|Uitbelacties.
+nl_audio/00096.wav|Het toegangssysteem werkt met rfid-tags die bewoners kunnen gebruiken om het gebouw binnen te komen.
+nl_audio/00097.wav|Tijdens de bouwvergadering werden de mogelijkheden voor extra parkeerruimte rondom het complex besproken.
+nl_audio/00098.wav|De nieuwe parkeergarage onder het appartementencomplex biedt plaats aan meer dan honderd voertuigen.
+nl_audio/00099.wav|Voor de oplevering van het nieuwe complex werd een stekkertest uitgevoerd om elektrische problemen te voorkomen.
+nl_audio/00100.wav|De technische dienst gebruikt een speciale tool om een stekkertest uit te voeren op de elektrische installaties.
+nl_audio/00101.wav|Tijdens het klussen op de bouwplaats gebruikte de elektricien een stevig verlengsnoer om de gereedschappen van stroom te voorzien.
+nl_audio/00102.wav|Email.
+nl_audio/00103.wav|Breman verzorgt het jaarlijkse onderhoud van de technische installaties in het appartementencomplex.
+nl_audio/00104.wav|De woningcorporatie heeft een contract afgesloten met een betrouwbare gasleverancier voor het hele complex.
+nl_audio/00105.wav|Tijdens het onderhoud werd de mechanische pomp van het verwarmingssysteem vervangen vanwege slijtage.
+nl_audio/00106.wav|De vve plant regelmatig uitbelacties om bewoners te informeren over onderhoudswerkzaamheden.
+nl_audio/00107.wav|Bij de jaarlijkse inspectie controleerde de onderhoudsmonteur of de wasmachine correct was aangesloten.
+nl_audio/00108.wav|Bij de renovatie van het appartementencomplex werden nieuwe deurdrangers geplaatst die voldoen aan de veiligheidsnormen.
+nl_audio/00109.wav|De technische dienst moest snel komen omdat er een kat was opgesloten in de galerij van het appartementencomplex.
+nl_audio/00110.wav|Herken.
+nl_audio/00111.wav|Uitbelacties zijn een effectief middel om snel feedback te verzamelen over de staat van het gebouw.
+nl_audio/00112.wav|De deurdranger van de branddeur in het trappenhuis moest worden vervangen omdat hij niet goed meer sloot.
+nl_audio/00113.wav|Betreft het appartementscomplex aan de molenstraat, de galerij wordt volgende week gerenoveerd.
+nl_audio/00114.wav|Voor het aansluiten van tijdelijke verlichting gebruikte de klusploeg een extra lang verlengsnoer.
+nl_audio/00115.wav|Stc.
+nl_audio/00116.wav|Tijdens de renovatie werden de gekoppelde garagedeuren vervangen door moderne, automatische exemplaren.
+nl_audio/00117.wav|Door de aanleg van een ondergrondse parkeergarage wordt het aantal beschikbare parkeerplekken flink uitgebreid.
+nl_audio/00118.wav|De vastgoedbeheerder kreeg klachten over onvoldoende parkeerplekken tijdens evenementen in de wijk.
+nl_audio/00119.wav|De woningcorporatie biedt huurders de keuze om zonnepanelen op het dak te laten installeren voor lagere energiekosten.
+nl_audio/00120.wav|Betreft de melding over de lekkage: onze technische dienst is morgen aanwezig voor inspectie.
+nl_audio/00121.wav|Herken.
+nl_audio/00122.wav|Tijdens de reparatie van de gevel zorgde het verlengsnoer ervoor dat het elektrisch gereedschap overal kon worden aangesloten.
+nl_audio/00123.wav|Tijdens de reparatie van de gevel zorgde het verlengsnoer ervoor dat het elektrisch gereedschap overal kon worden aangesloten.
+nl_audio/00124.wav|Tijdens de renovatie moest de gasleverancier het gasfornuis tijdelijk afsluiten voor veiligheidscontroles.
+nl_audio/00125.wav|Bewoners werden gewaarschuwd voor mogelijke inbraken en kregen tips om hun woningen beter te beveiligen.
+nl_audio/00126.wav|De woningcorporatie biedt verschillende mogelijkheden aan huurders om hun woning energiezuiniger te maken.
+nl_audio/00127.wav|Tijdens de inspectie werden labels en tags gebruikt om beschadigde onderdelen te markeren voor reparatie.
+nl_audio/00128.wav|Tijdens het weekend is er altijd een nooddienstmedewerker beschikbaar voor urgente reparaties aan het gebouw.
+nl_audio/00129.wav|De vve schakelde een extern bureau in voor het uitvoeren van een veiligheidsinspectie in het wooncomplex.
+nl_audio/00130.wav|Bewoners klagen over onvoldoende ventilatie in de parkeergarage, vooral tijdens drukke avonden.
+nl_audio/00131.wav|Herken.
+nl_audio/00132.wav|De vve van de flat organiseert een bijeenkomst om te praten over het onderhoud van de gemeenschappelijke ruimtes.
+nl_audio/00133.wav|Elke sleutel wordt voorzien van een tag om makkelijk te kunnen identificeren welke deur erbij hoort.
+nl_audio/00134.wav|Uitbelacties zijn een effectief middel om snel feedback te verzamelen over de staat van het gebouw.
+nl_audio/00135.wav|Toen de loodgieter zijn diagnose gaf over de lekkage, zei de huiseigenaar verbaasd: "dit antwoord herken ik niet, want er is al eerder iets anders vastgesteld.".
+nl_audio/00136.wav|Vve.
+nl_audio/00137.wav|De gasleverancier werd ingeschakeld om de aansluiting voor de nieuwe verwarmingsketel te regelen.
+nl_audio/00138.wav|Als vastgoedbeheerder herken ik de urgentie van het repareren van gebroken ramen in het trappenhuis.
+nl_audio/00139.wav|Het betreden van de bouwplaats zonder helm kan leiden tot gevaarlijke situaties door vallend materiaal.
+nl_audio/00140.wav|Tijdens de renovatie werd er contact opgenomen met de energieleverancier om de verwarmingsinstallatie aan te passen.
+nl_audio/00141.wav|De intercominstallatie in het appartementencomplex werd vernieuwd voor betere communicatie tussen bewoners en bezoekers.
+nl_audio/00142.wav|Bewoners werden gewaarschuwd voor mogelijke inbraken en kregen tips om hun woningen beter te beveiligen.
+nl_audio/00143.wav|Na de diefstal van gereedschap op de bouwplaats deed de uitvoerder direct aangifte bij de politie.
+nl_audio/00144.wav|De aannemer gaf aan dat zonder een officiële aangifte van inbraak, de herstelkosten niet door de opstalverzekering worden gedekt.
+nl_audio/00145.wav|Bij de renovatie van het oude appartementencomplex onderzochten we verschillende mogelijkheden voor duurzame isolatie.
+nl_audio/00146.wav|Bewoners meldden een lekkage aan het plafond na hevige regenval.
+nl_audio/00147.wav|De verwarmingsketel is gekoppeld aan het slimme thermostaatsysteem voor betere temperatuurregeling.
+nl_audio/00148.wav|Het loodgietersbedrijf kwam snel ter plaatse om de lekkage in de verwarmingsinstallatie te verhelpen.
+nl_audio/00149.wav|De betonnen vloer van de galerij vertoonde scheuren en moest dringend worden verstevigd.
+nl_audio/00150.wav|Het verlengsnoer moest worden gecontroleerd op slijtage voordat het op de bouwplaats werd gebruikt.
+nl_audio/00151.wav|Bij de gewone huurcontracten horen standaard onderhoudsverplichtingen voor zowel huurder als verhuurder.
+nl_audio/00152.wav|De schilderwerkzaamheden aan de galerij van het flatgebouw starten volgende week en duren ongeveer tien dagen.
+nl_audio/00153.wav|Bewoners werden geïnformeerd dat het trappenhuis ’s nachts afgesloten zou zijn vanwege schoonmaakwerkzaamheden.
+nl_audio/00154.wav|Stc.
+nl_audio/00155.wav|De vastgoedbeheerder onderzocht de mogelijkheden om lege kavels te benutten voor tijdelijke huisvesting.
+nl_audio/00156.wav|Elke sleutel wordt voorzien van een tag om makkelijk te kunnen identificeren welke deur erbij hoort.
+nl_audio/00157.wav|De vastgoedbeheerder kreeg klachten over onvoldoende parkeerplekken tijdens evenementen in de wijk.
+nl_audio/00158.wav|Bij storingen aan de gasleiding kunnen bewoners direct contact opnemen met de gasleverancier.
+nl_audio/00159.wav|De vastgoedbeheerder moest aangifte doen van vandalisme nadat meerdere ruiten in het trappenhuis waren ingegooid.
+nl_audio/00160.wav|Herken.
+nl_audio/00161.wav|Tijdens de onderhoudsvergadering bespraken we de keuze tussen reparatie of volledige vervanging van de oude kozijnen.
+nl_audio/00162.wav|De bewoner ontving een brief over achterstallig schilderwerk en belde de woningcorporatie: "dit antwoord herken ik niet, ik heb hier vorige maand al voorbetaald.".
+nl_audio/00163.wav|De energieleverancier informeerde de bewoners over nieuwe tarieven voor het komende jaar.
+nl_audio/00164.wav|Tijdens de renovatie werd er contact opgenomen met de energieleverancier om de verwarmingsinstallatie aan te passen.
+nl_audio/00165.wav|Woningcorporaties adviseren bewoners om bij twijfel over asbest direct contact op te nemen met een gecertificeerd inspectiebedrijf.
+nl_audio/00166.wav|Bij het aansluiten van tijdelijke verlichting in de parkeergarage gebruikte men een waterdicht verlengsnoer.
+nl_audio/00167.wav|De vve besloot tijdens de vergadering om het dak van het appartementencomplex te laten renoveren.
+nl_audio/00168.wav|Voor de energiebesparing zijn zonnepanelen gekoppeld aan het elektriciteitsnet van het gebouw.
+nl_audio/00169.wav|De architect presenteerde meerdere ontwerpmogelijkheden om de galerij toegankelijker te maken voor mindervaliden.
+nl_audio/00170.wav|Bij klachten over de ventilatie wordt dit probleem besproken in de eerstvolgende technische commissie.
+nl_audio/00171.wav|Da's mijn nummer
+nl_audio/00172.wav|Nee, ik weet mijn postcode niet uit mijn hoofd.
+nl_audio/00173.wav|Helemaal.
+nl_audio/00174.wav|Mijn postcode is drie drie zes twee X G.
+nl_audio/00175.wav|Mijn postcode is acht zeven zes vijf V G.
+nl_audio/00176.wav|Nee, ik heb geen telefoonhouder voor in de auto.
+nl_audio/00177.wav|Mijn postcode is vierenvijftig tweeëndertig U F.
+nl_audio/00178.wav|Mijn telefoonnummer is nul zes twee drie vier vijf zes zeven acht negen .
+nl_audio/00179.wav|Dat klopt als een zwerende vinger.
+nl_audio/00180.wav|ja
+nl_audio/00181.wav|elf
+nl_audio/00182.wav|Klopt het dat uw adres Oosterkade en de plaatsnaam Utrecht is?
+nl_audio/00183.wav|Nee, mijn telefoonnummer staat niet in het telefoonboek.
+nl_audio/00184.wav|Ja, mijn telefoonnummer is geregistreerd bij de belastingdienst.
+nl_audio/00185.wav|Mijn postcode is twee negen acht vijf T A.
+nl_audio/00186.wav|Nee, ik ben niet bekend met mijn huisnummer.
+nl_audio/00187.wav|Ja, mijn huisnummer is negen negen B.
+nl_audio/00188.wav|Mijn postcode is vier vijf zes drie J T.
+nl_audio/00189.wav|Absoluut.
+nl_audio/00190.wav|Dat vind ik goed.
+nl_audio/00191.wav|Ik heb een nee-ja sticker op mijn brievenbus.
+nl_audio/00192.wav|Dat vind ik goed.
+nl_audio/00193.wav|Dat is helemaal op de spijker.
+nl_audio/00194.wav|Dat klopt, mijn postcode is vijf zes zeven acht  C D
+nl_audio/00195.wav|ja
+nl_audio/00196.wav|Ja, mijn huis heeft postcode zeven acht negen nul  G H.
+nl_audio/00197.wav|Nee, mijn postcode is niet correct.
+nl_audio/00198.wav|Nee, ik heb geen apart nummer voor noodgevallen.
+nl_audio/00199.wav|Mijn postcode is een drie drie negen R E.
+nl_audio/00200.wav|Da's mijn nummer
+nl_audio/00201.wav|Mijn huisnummer is één nul nul één .
+nl_audio/00202.wav|nee
+nl_audio/00203.wav|Daar ben ik het mee eens.
+nl_audio/00204.wav|dat klopt
+nl_audio/00205.wav|Ja, mijn postcode is vijf zes zeven acht  X Y.
+nl_audio/00206.wav|Zeker.
+nl_audio/00207.wav|Ja, ik heb een verzekering voor mijn telefoon afgesloten.
+nl_audio/00208.wav|Mijn postcode is vier twee nul zeven J W.
+nl_audio/00209.wav|Zeker.
+nl_audio/00210.wav|ja
+nl_audio/00211.wav|eenenvijftig
+nl_audio/00212.wav|Dat is precies goed.
+nl_audio/00213.wav|Juist.
+nl_audio/00214.wav|laan
+nl_audio/00215.wav|Nee, mijn postcode bestaat niet uit alleen cijfers.
+nl_audio/00216.wav|Dat klopt als een bus.
+nl_audio/00217.wav|Ja, mijn telefoonnummer eindigt op nul nul .
+nl_audio/00218.wav|nee
+nl_audio/00219.wav|Dat is jammer, wij kunnen u dan sneller helpen. Wilt u toch meewerken?
+nl_audio/00220.wav|ja
+nl_audio/00221.wav|Klopt.
+nl_audio/00222.wav|Nee, ik heb geen apart nummer voor noodgevallen.
+nl_audio/00223.wav|Inderdaad, dat klopt.
+nl_audio/00224.wav|Dat lijkt me goed.
+nl_audio/00225.wav|jazeker
+nl_audio/00226.wav|ja dat is mijn naam
+nl_audio/00227.wav|Nee, mijn telefoonnummer staat niet in het telefoonboek.
+nl_audio/00228.wav|Ja, mijn telefoonnummer is geregistreerd bij de belastingdienst.
+nl_audio/00229.wav|eenendertig
+nl_audio/00230.wav|Nee, ik heb geen internationaal telefoonnummer.
+nl_audio/00231.wav|Absoluut.
+nl_audio/00232.wav|Ja, ik heb een brievenbus met mijn naam erop.
+nl_audio/00233.wav|Ik ben inderdaad
+nl_audio/00234.wav|Ja, mijn huis heeft postcode zeven acht negen nul  G H.
+nl_audio/00235.wav|Ja, ik heb een verzekering voor mijn telefoon afgesloten.
+nl_audio/00236.wav|nee
+nl_audio/00237.wav|tachtig
+nl_audio/00238.wav|Mijn huisnummer heeft een toevoeging, bijvoorbeeld A of B.
+nl_audio/00239.wav|Dat klinkt correct.
+nl_audio/00240.wav|Mijn postcode is tweeëndertig eenentachtig V L.
+nl_audio/00241.wav|Nee, ik heb geen abonnement op beltegoed.
+nl_audio/00242.wav|Helemaal goed.
+nl_audio/00243.wav|nee
+nl_audio/00244.wav|Mijn postcode is zevenenvijftig zesenzestig T E.
+nl_audio/00245.wav|Dat klopt als een bus.
+nl_audio/00246.wav|Nee, mijn huisnummer is niet goed zichtbaar in het donker.
+nl_audio/00247.wav|Nee, ik maak geen gebruik van een telefoonhoesje.
+nl_audio/00248.wav|Juist, dat is correct.
+nl_audio/00249.wav|Ja, mijn postcode is onlangs gewijzigd.
+nl_audio/00250.wav|Men noemt mij
+nl_audio/00251.wav|Dat is inderdaad de juiste informatie.
+nl_audio/00252.wav|Dat is een goed idee.
+nl_audio/00253.wav|Dat klinkt goed.
+nl_audio/00254.wav|Mijn postcode is vierenveertig nul een B X.
+nl_audio/00255.wav|Ja, ik heb een telefoon met dual sim-kaarten.
+nl_audio/00256.wav|Dat is het goede nummer
+nl_audio/00257.wav|Ik heb een ja-nee sticker op mijn deur.
+nl_audio/00258.wav|Mijn achternaam is
+nl_audio/00259.wav|Ja, mijn postcode is onlangs gewijzigd.
+nl_audio/00260.wav|Dat mag.
+nl_audio/00261.wav|Ja, ik heb een telefoonnummer.
+nl_audio/00262.wav|elf
+nl_audio/00263.wav|Nee, ik heb geen huisnummer.
+nl_audio/00264.wav|Dat is exact wat ik bedoelde.
+nl_audio/00265.wav|Dat klopt als een zwerende vinger.
+nl_audio/00266.wav|nee
+nl_audio/00267.wav|ja hoor
+nl_audio/00268.wav|Ja, ik heb een geheim telefoonnummer.
+nl_audio/00269.wav|Klopt het dat uw adres Oudezijds Voorburgwal en de plaatsnaam Amsterdam is?
+nl_audio/00270.wav|Nee, mijn postcode heeft geen speciale tekens.
+nl_audio/00271.wav|Ik heb een ja-nee sticker op mijn deur.
+nl_audio/00272.wav|straat
+nl_audio/00273.wav|Ja, mijn postcode heeft drie cijfers en drie letters.
+nl_audio/00274.wav|Ik heet
+nl_audio/00275.wav|Ja, ik heb een telefoonnummer.
+nl_audio/00276.wav|Nee, ik heb geen mobiel telefoonnummer.
+nl_audio/00277.wav|Nee, ik heb geen telefoonkabel.
+nl_audio/00278.wav|Dat is precies wat ik bedoelde.
+nl_audio/00279.wav|dat klopt
+nl_audio/00280.wav|Dat is achtenzeventig D.
+nl_audio/00281.wav|Mijn postcode is twaalf zesenveertig Z M.
+nl_audio/00282.wav|Dat heb je helemaal juist.
+nl_audio/00283.wav|Mijn telefoonnummer eindigt op een even cijfer.
+nl_audio/00284.wav|Inderdaad, dat klopt.
+nl_audio/00285.wav|twee
+nl_audio/00286.wav|Mijn huisnummer is vijftien.
+nl_audio/00287.wav|negenenvijftig
+nl_audio/00288.wav|Zeker weten
+nl_audio/00289.wav|Ik woon in een appartement.
+nl_audio/00290.wav|vijfenzestig
+nl_audio/00291.wav|Mijn voornaam is
+nl_audio/00292.wav|Nee, ik ken mijn postcode niet volledig uit mijn hoofd.
+nl_audio/00293.wav|Ik heb een ja-nee sticker op mijn voordeur.
+nl_audio/00294.wav|Nee, ik heb geen telefoonboek.
+nl_audio/00295.wav|Mijn postcode is negen een negen nul W H.
+nl_audio/00296.wav|ja
+nl_audio/00297.wav|Op deze vraag verwacht ik een ja of nee antwoord. Kunt u mij dit geven?
+nl_audio/00298.wav|Mijn huisnummer is een tussenwoningnummer.
+nl_audio/00299.wav|Dat is helemaal accuraat.
+nl_audio/00300.wav|Ons huisnummer is vijftig
+nl_audio/00301.wav|zevenenzestig
+nl_audio/00302.wav|zeven
+nl_audio/00303.wav|Mijn postcode is negenenzestig drieëntwintig C A.
+nl_audio/00304.wav|Mijn huisnummer is vijftien.
+nl_audio/00305.wav|vijftien
+nl_audio/00306.wav|zevenendertig
+nl_audio/00307.wav|Mijn postcode is geldig voor mijn hele straat.
+nl_audio/00308.wav|Dat moet wel lukken.
+nl_audio/00309.wav|Ik ben inderdaad
+nl_audio/00310.wav|Mag ik uw naam noteren?
+nl_audio/00311.wav|Mijn telefoonnummer eindigt op acht negen .
+nl_audio/00312.wav|Ik heb genoteerd nul negen drie twee vijf negen zes vier zeven één . Is dit correct?
+nl_audio/00313.wav|Mijn postcode is geldig voor mijn hele straat.
+nl_audio/00314.wav|Ik woon in een vrijstaand huis.
+nl_audio/00315.wav|Dat is het correcte nummer
+nl_audio/00316.wav|Zeker weten
+nl_audio/00317.wav|Mag ik uw huisnummer noteren?
+nl_audio/00318.wav|zesentwintig
+nl_audio/00319.wav|Nee, ik ben niet recentelijk verhuisd.
+nl_audio/00320.wav|Nee, ik heb geen abonnement op beltegoed.
+nl_audio/00321.wav|Dat mag.
+nl_audio/00322.wav|Mijn telefoonnummer eindigt op een oneven cijfer.
+nl_audio/00323.wav|Ik reken hem goed.
+nl_audio/00324.wav|Ja, ik heb een smartphone met vijf G-ondersteuning.
+nl_audio/00325.wav|Mijn huisnummer is zeven zeven C.
+nl_audio/00326.wav|Mijn volledige naam is
+nl_audio/00327.wav|Ja, ik heb een geheim telefoonnummer.
+nl_audio/00328.wav|Da's mijn naam
+nl_audio/00329.wav|Daar ben ik het mee eens.
+nl_audio/00330.wav|Ja hoor, dat kan.
+nl_audio/00331.wav|Juist, dat is het helemaal.
+nl_audio/00332.wav|Ja, ik heb mijn postcode opgezocht via internet.
+nl_audio/00333.wav|Ja, ik heb een smartphone met vijf G-ondersteuning.
+nl_audio/00334.wav|vierennegentig
+nl_audio/00335.wav|Dat is het juiste nummer
+nl_audio/00336.wav|Nee, mijn huisnummer heeft geen achtervoegsel.
+nl_audio/00337.wav|negentien
+nl_audio/00338.wav|Mijn postcode is negenentwintig nul drie A C.
+nl_audio/00339.wav|Het nummer is twaalf.
+nl_audio/00340.wav|Precies, mijn postcode is drie vier vijf zes  E F.
+nl_audio/00341.wav|Mijn achternaam is
+nl_audio/00342.wav|Onze postcode is vijf zes zeven acht  C D.
+nl_audio/00343.wav|Ik heb genoteerd Finn Visser. Is dit correct?
+nl_audio/00344.wav|Mijn huisnummer is vier vijf zes .
+nl_audio/00345.wav|Dat is helemaal accuraat.
+nl_audio/00346.wav|vierendertig
+nl_audio/00347.wav|vierentwintig
+nl_audio/00348.wav|Dat is het juiste nummer
+nl_audio/00349.wav|Tuurlijk.
+nl_audio/00350.wav|Mijn postcode begint met twee twee .
+nl_audio/00351.wav|ja
+nl_audio/00352.wav|ja dat is mijn naam
+nl_audio/00353.wav|Dat klopt perfect.
+nl_audio/00354.wav|Mijn postcode heeft de combinatie ABC.
+nl_audio/00355.wav|Ik heb een ja-nee sticker op mijn deur.
+nl_audio/00356.wav|Mijn telefoonnummer heeft een landcode +drie één .
+nl_audio/00357.wav|Dat vind ik ook.
+nl_audio/00358.wav|Ja, ik heb een abonnement op de postcode loterij.
+nl_audio/00359.wav|Dat is mijn nummer
+nl_audio/00360.wav|Nee, ik weet niet precies waar mijn huisnummer zich bevindt.
+nl_audio/00361.wav|Nee, ik heb geen apart nummer voor noodgevallen.
+nl_audio/00362.wav|ja hoor
+nl_audio/00363.wav|Mijn postcode is dertien eenenachtig C L.
+nl_audio/00364.wav|Mijn postcode is vijf zes zeven acht B K.
+nl_audio/00365.wav|Ja, mijn postcode is drie vier vijf zes  Z W.
+nl_audio/00366.wav|Precies, mijn postcode is drie vier vijf zes  E F.
+nl_audio/00367.wav|Nee, mijn postcode bestaat niet uit alleen cijfers.
+nl_audio/00368.wav|Mijn postcode is drie twee zes een G A.
+nl_audio/00369.wav|nee
+nl_audio/00370.wav|Dat vind ik goed.
+nl_audio/00371.wav|Mijn postcode is drieëntwintig zestien B S.
+nl_audio/00372.wav|Nee, ik ben niet verhuisd naar een andere postcode.
+nl_audio/00373.wav|Mijn naam is
+nl_audio/00374.wav|Mijn volledige naam is
+nl_audio/00375.wav|Men noemt mij
+nl_audio/00376.wav|Dat is inderdaad mijn telefoonnummer
+nl_audio/00377.wav|Mijn postcode is één twee drie vier  A B.
+nl_audio/00378.wav|Sorry, ik heb u niet begrepen. Ik verwacht een ja of nee antwoord.
+nl_audio/00379.wav|Mijn postcode is twee drie een zes B S.
+nl_audio/00380.wav|Da's mijn nummer
+nl_audio/00381.wav|Mijn postcode is zes vijf twee vier X K.
+nl_audio/00382.wav|D
+nl_audio/00383.wav|Mijn postcode heeft de letters XYZ.
+nl_audio/00384.wav|nee
+nl_audio/00385.wav|Ja, ik heb een abonnement op de postcode loterij.
+nl_audio/00386.wav|Mijn huisnummer heeft geen toevoeging, zoals A of B.
+nl_audio/00387.wav|Ik heb een nee-ja sticker op mijn brievenbus.
+nl_audio/00388.wav|Onze postcode is vijf zes zeven acht  C D.
+nl_audio/00389.wav|drieëntachtig
+nl_audio/00390.wav|Precies, ik ben
+nl_audio/00391.wav|Precies, ik ben
+nl_audio/00392.wav|Dat is volledig correct.
+nl_audio/00393.wav|Ja, ik heb een smartphone met vijf G-ondersteuning.
+nl_audio/00394.wav|Het nummer is twaalf.
+nl_audio/00395.wav|nee
+nl_audio/00396.wav|Ik heb een nee-ja sticker op mijn brievenbus.
+nl_audio/00397.wav|Klopt, ik woon in Amsterdam, postcode één nul één twee  K L
+nl_audio/00398.wav|Dat mag.
+nl_audio/00399.wav|Mijn naam is
+nl_audio/00400.wav|Dat is helemaal in orde.
+nl_audio/00401.wav|Nee, mijn postcode heeft geen letters.
+nl_audio/00402.wav|Dat is spot on.
+nl_audio/00403.wav|Klopt het dat uw adres Rokin en de plaatsnaam Amsterdam is?
+nl_audio/00404.wav|Ja, ik heb een huisnummerbordje.
+nl_audio/00405.wav|Ja, precies.
+nl_audio/00406.wav|Daar ben ik het mee eens.
+nl_audio/00407.wav|Nee, mijn postcode heeft geen speciale tekens.
+nl_audio/00408.wav|eenenveertig
+nl_audio/00409.wav|drieëndertig
+nl_audio/00410.wav|Daar ben ik het mee eens.
+nl_audio/00411.wav|Mijn postcode is vijfenveertig drieënzestig J T.
+nl_audio/00412.wav|Ik woon in Amsterdam, postcode één nul één twee  C D.
+nl_audio/00413.wav|Dat is de juiste samenvatting.
+nl_audio/00414.wav|nul
+nl_audio/00415.wav|tweeënvijftig
+nl_audio/00416.wav|Mijn postcode is zevenenzestig nul zes E C.
+nl_audio/00417.wav|Ik heb genoteerd Milan van den Berg. Is dit correct?
+nl_audio/00418.wav|Mijn volledige naam is
+nl_audio/00419.wav|Ja, mijn postcode begint met een even nummer.
+nl_audio/00420.wav|Mijn huisnummer is negentien.
+nl_audio/00421.wav|Op deze vraag verwacht ik een ja of nee antwoord. Kunt u mij dit geven?
+nl_audio/00422.wav|Dat klopt als een zwerende vinger.
+nl_audio/00423.wav|Ja, mijn huisnummer is één twee A.
+nl_audio/00424.wav|Mijn telefoonnummer begint met de landcode +vier vier .
+nl_audio/00425.wav|Dat is inderdaad duizend-elf.
+nl_audio/00426.wav|Ja, ik heb een extra telefoonnummer voor zakelijk gebruik.
+nl_audio/00427.wav|Dat is
+nl_audio/00428.wav|Ik bel eigenlijk voor
+nl_audio/00429.wav|Nee, ik ben niet recentelijk verhuisd.
+nl_audio/00430.wav|Dat klopt helemaal met wat ik weet.
+nl_audio/00431.wav|Er is een klacht ingediend door de bewoner van nummer vierendertig.
+nl_audio/00432.wav|Dat klinkt goed.
+nl_audio/00433.wav|Kunt u uw postcode herhalen?
+nl_audio/00434.wav|Klopt het dat uw adres Singel en de plaatsnaam Amsterdam is?
+nl_audio/00435.wav|Ja, dat ben ik
+nl_audio/00436.wav|Ja, ik heb een brievenbus met mijn naam erop.
+nl_audio/00437.wav|Dat is mijn nummer
+nl_audio/00438.wav|zevenhonderd
+nl_audio/00439.wav|Mijn postcode is tweeëndertig tien L W.
+nl_audio/00440.wav|Mijn postcode is een drie acht een C L.
+nl_audio/00441.wav|zeven
+nl_audio/00442.wav|twintig
+nl_audio/00443.wav|Natuurlijk.
+nl_audio/00444.wav|Ja hoor, dat kan.
+nl_audio/00445.wav|twaalf
+nl_audio/00446.wav|Dat heb je helemaal juist.
+nl_audio/00447.wav|Mijn telefoonnummer begint met de landcode +drie twee .
+nl_audio/00448.wav|Mijn postcode is vijfenvijftig nul acht K J.
+nl_audio/00449.wav|Dat is inderdaad duizend-elf.
+nl_audio/00450.wav|Dat is helemaal correct.
+nl_audio/00451.wav|Dat mag.
+nl_audio/00452.wav|Ik heb genoteerd Gijs Hendriks. Is dit correct?
+nl_audio/00453.wav|Ik heb genoteerd nul zes vier acht zes één negen zeven drie nul . Is dit correct?
+nl_audio/00454.wav|Ik heb genoteerd Thomas Vos. Is dit correct?
+nl_audio/00455.wav|Ja, mijn postcode is vijf zes zeven acht  X Y.
+nl_audio/00456.wav|Mijn huisnummer is dertien.
+nl_audio/00457.wav|Dat is het correcte nummer
+nl_audio/00458.wav|Juist, dat heb je correct begrepen.
+nl_audio/00459.wav|Absoluut.
+nl_audio/00460.wav|honderd
+nl_audio/00461.wav|Nee, ik heb geen mobiel telefoonnummer.
+nl_audio/00462.wav|Ik heb genoteerd Milan van den Berg. Is dit correct?
+nl_audio/00463.wav|Dat is helemaal correct weergegeven.
+nl_audio/00464.wav|ja dat is mijn naam
+nl_audio/00465.wav|Mijn huisnummer is dertien.
+nl_audio/00466.wav|Ja, mijn telefoonnummer is geregistreerd bij de KvK.
+nl_audio/00467.wav|Absoluut.
+nl_audio/00468.wav|Ja, mijn huisnummer is negen negen B.
+nl_audio/00469.wav|Dat is helemaal in orde.
+nl_audio/00470.wav|Dat is helemaal in lijn met wat ik weet.
+nl_audio/00471.wav|Ik heb genoteerd Sam de Bruin. Is dit correct?
+nl_audio/00472.wav|O
+nl_audio/00473.wav|Wat is dat huisnummer? zesenveertig E?
+nl_audio/00474.wav|Mijn postcode is acht zeven zes vijf V G.
+nl_audio/00475.wav|Klopt het dat uw adres Mauritsweg en de plaatsnaam Rotterdam is?
+nl_audio/00476.wav|Mijn postcode is een twee vier zes Z M.
+nl_audio/00477.wav|Nee, ik heb geen telefoon met draad.
+nl_audio/00478.wav|Mijn postcode is één twee drie vier  A B.
+nl_audio/00479.wav|Juist, dat is het.
+nl_audio/00480.wav|B
+nl_audio/00481.wav|Je mag me {name} noemen
+nl_audio/00482.wav|Daar ben ik het mee eens.
+nl_audio/00483.wav|Ik heb genoteerd Milan van den Berg. Is dit correct?
+nl_audio/00484.wav|Jep.
+nl_audio/00485.wav|Mijn postcode is negen een negen nul W H.
+nl_audio/00486.wav|Je hebt mijn naam juist
+nl_audio/00487.wav|Nee, ik heb geen telefoonkabel.
+nl_audio/00488.wav|nee
+nl_audio/00489.wav|Ja, ik heb een telefoonabonnement met onbeperkt bellen.
+nl_audio/00490.wav|Klopt het dat uw adres Kalverstraat en de plaatsnaam Amsterdam is?
+nl_audio/00491.wav|Klopt als een bus
+nl_audio/00492.wav|Dat is het goede nummer
+nl_audio/00493.wav|nee
+nl_audio/00494.wav|Sorry, ik heb u niet begrepen. Ik verwacht een ja of nee antwoord.
+nl_audio/00495.wav|nul
+nl_audio/00496.wav|Nee, mijn postcode heeft geen speciale tekens.
+nl_audio/00497.wav|Klopt het dat uw adres Lucasbolwerk en de plaatsnaam Utrecht is?
+nl_audio/00498.wav|eenenzeventig
+nl_audio/00499.wav|Dat is prima
+nl_audio/00500.wav|Laten we doorgaan. Kunt u ons alstublieft uw X vertellen
+nl_audio/00501.wav|prinses
+nl_audio/00502.wav|Sorry, ik heb u niet begrepen. Ik verwacht een ja of nee antwoord.
+nl_audio/00503.wav|Nee, ik heb geen telefoon met draad.
+nl_audio/00504.wav|Mijn huisnummer is zevenenzeventig.
+nl_audio/00505.wav|Ik heb genoteerd nul negen acht zeven vier twee zes nul drie vijf . Is dit correct?
+nl_audio/00506.wav|J
+nl_audio/00507.wav|Mijn nummer is
+nl_audio/00508.wav|Mijn postcode begint met twee twee .
+nl_audio/00509.wav|prins
+nl_audio/00510.wav|vierentachtig
+nl_audio/00511.wav|Mijn postcode is zevenenzestig nul zes E C.
+nl_audio/00512.wav|zeventig
+nl_audio/00513.wav|Daar heb je gelijk in.
+nl_audio/00514.wav|straat
+nl_audio/00515.wav|Mijn postcode is zevenentachtig vijfenzestig V G.
+nl_audio/00516.wav|Sorry, ik heb u niet begrepen. Ik verwacht een ja of nee antwoord.
+nl_audio/00517.wav|Ik woon in een appartement.
+nl_audio/00518.wav|Mijn huisnummer is twaalf A.
+nl_audio/00519.wav|Ja, ik heb een telefoonabonnement met onbeperkt bellen.
+nl_audio/00520.wav|Mijn postcode is negen een nul twee C W.
+nl_audio/00521.wav|Inderdaad.
+nl_audio/00522.wav|Mijn huisnummer is een even getal.
+nl_audio/00523.wav|Mijn postcode is tweeëndertig eenenzestig G A.
+nl_audio/00524.wav|negenenveertig
+nl_audio/00525.wav|Ja, mijn postcode is onlangs gewijzigd naar acht negen nul één  S T.
+nl_audio/00526.wav|Dat zit goed.
+nl_audio/00527.wav|Exact.
+nl_audio/00528.wav|Ja, ik heb een telefoonabonnement met onbeperkt bellen.
+nl_audio/00529.wav|Precies, mijn postcode is drie vier vijf zes  E F.
+nl_audio/00530.wav|Nee, ik heb geen telefoon met draad.
+nl_audio/00531.wav|We hebben onmiddellijk een ambulance nodig op nummer vijfenveertig.
+nl_audio/00532.wav|Ja hoor
+nl_audio/00533.wav|Mijn postcode is dertien eenenachtig C L.
+nl_audio/00534.wav|ja
+nl_audio/00535.wav|vierendertig
+nl_audio/00536.wav|ja
+nl_audio/00537.wav|Ik heb een ja-nee sticker op mijn deur.
+nl_audio/00538.wav|Dat klopt als een bus.
+nl_audio/00539.wav|Mijn volledige naam is
+nl_audio/00540.wav|ja dat is mijn naam
+nl_audio/00541.wav|Ja, ik heb een smartphone met vijf G-ondersteuning.
+nl_audio/00542.wav|zes
+nl_audio/00543.wav|Mijn huisnummer heeft een toevoeging, bijvoorbeeld A of B.
+nl_audio/00544.wav|Dat klopt perfect.
+nl_audio/00545.wav|Klopt het dat uw adres Adelaarstraat en de plaatsnaam Utrecht is?
+nl_audio/00546.wav|Dat moet wel lukken.
+nl_audio/00547.wav|Dat is mijn nummer
+nl_audio/00548.wav|Zekers
+nl_audio/00549.wav|Helemaal goed.
+nl_audio/00550.wav|Nee, ik heb geen abonnement op de telefoongids.
+nl_audio/00551.wav|Fijn dat ik uw gegevens heb mogen noteren, kunt u mij vertellen waarvoor u belt?
+nl_audio/00552.wav|vijf
+nl_audio/00553.wav|T
+nl_audio/00554.wav|Mijn telefoonnummer eindigt op acht negen .
+nl_audio/00555.wav|Ja, mijn postcode is inderdaad één twee drie vier  A B
+nl_audio/00556.wav|Ja, mijn huis heeft postcode zeven acht negen nul  G H.
+nl_audio/00557.wav|Dat heb je helemaal juist.
+nl_audio/00558.wav|Juist, dat is het helemaal.
+nl_audio/00559.wav|Nee, ik ben niet bekend met mijn huisnummer.
+nl_audio/00560.wav|M'n naam is
+nl_audio/00561.wav|Ik heb genoteerd nul negen één acht nul drie vijf negen vier zes . Is dit correct?
+nl_audio/00562.wav|Dat is mijn naam
+nl_audio/00563.wav|Je hebt het bij het juiste eind.
+nl_audio/00564.wav|zeventien
+nl_audio/00565.wav|Mijn postcode is zevenenvijftig zesenzestig T E.
+nl_audio/00566.wav|Mijn postcode is vijfenvijftig nul acht K J.
+nl_audio/00567.wav|Nee, mijn postcode heeft geen speciale tekens.
+nl_audio/00568.wav|Ik heb uw antwoord niet begrepen. Kunt u het nogmaals proberen?
+nl_audio/00569.wav|Mijn huisnummer is elf.
+nl_audio/00570.wav|Mijn huisnummer is elf.
+nl_audio/00571.wav|Dat vind ik goed.
+nl_audio/00572.wav|Helemaal goed.
+nl_audio/00573.wav|Mijn postcode is geldig voor mijn hele straat.
+nl_audio/00574.wav|Dat is mijn naam
+nl_audio/00575.wav|twaalf
+nl_audio/00576.wav|Dat is het juiste nummer
+nl_audio/00577.wav|Klopt het dat uw adres Meent en de plaatsnaam Rotterdam is?
+nl_audio/00578.wav|ja
+nl_audio/00579.wav|Mijn postcode is vier drie vijf zes I F.
+nl_audio/00580.wav|Dat is het juiste nummer
+nl_audio/00581.wav|Jazeker
+nl_audio/00582.wav|Mijn telefoonnummer begint met de landcode +vier vier .
+nl_audio/00583.wav|Ja, dat klopt.
+nl_audio/00584.wav|Mijn postcode is achtenzeventig vierennegentig K V.
+nl_audio/00585.wav|Dank u voor deze informatie. Wij geven dit zo spoedig mogelijk door aan de eerstvolgende beschikbare medewerker. Deze zal u verder helpen.
+nl_audio/00586.wav|Mijn postcode is vierenvijftig tweeëndertig U F.
+nl_audio/00587.wav|B
+nl_audio/00588.wav|Mijn huisnummer is zevenendertig.
+nl_audio/00589.wav|Ik heb meerdere keren het antwoord niet begrepen. Wilt u het antwoord opnieuw proberen door te geven?
+nl_audio/00590.wav|Ik heet
+nl_audio/00591.wav|Mijn postcode is zes negen twee drie C A.
+nl_audio/00592.wav|Mijn huisnummer is zevenenzeventig.
+nl_audio/00593.wav|vierenzeventig
+nl_audio/00594.wav|zeventig
+nl_audio/00595.wav|Klopt, ik woon in Amsterdam, postcode één nul één twee  K L
+nl_audio/00596.wav|Ja, ik heb een telefoonverzekering afgesloten.
+nl_audio/00597.wav|vijftig
+nl_audio/00598.wav|Ja, mijn postcode is inderdaad één twee drie vier  A B
+nl_audio/00599.wav|We hebben onmiddellijk een ambulance nodig op nummer vijfenveertig.
+nl_audio/00600.wav|Absoluut.
+nl_audio/00601.wav|Mijn postcode is dertien eenenachtig C L.
+nl_audio/00602.wav|Ja, dat komt overeen met mijn informatie.
+nl_audio/00603.wav|Mijn postcode is tweeëndertig tien L W.
+nl_audio/00604.wav|Ik heb genoteerd Daan Jansen. Is dit correct?
+nl_audio/00605.wav|Mijn postcode is geldig voor mijn hele straat.
+nl_audio/00606.wav|Klopt het dat uw adres Herengracht en de plaatsnaam Amsterdam is?
+nl_audio/00607.wav|Ja, dat ben ik
+nl_audio/00608.wav|Dat vind ik goed.
+nl_audio/00609.wav|negenentachtig
+nl_audio/00610.wav|Je hebt mijn naam juist
+nl_audio/00611.wav|Dat is helemaal nauwkeurig.
+nl_audio/00612.wav|Dat is het juiste nummer
+nl_audio/00613.wav|Zeker wel
+nl_audio/00614.wav|Mijn huisnummer is een tussenwoningnummer.
+nl_audio/00615.wav|Nee, ik heb geen abonnement op beltegoed.
+nl_audio/00616.wav|Dat kan ik wel.
+nl_audio/00617.wav|Klopt, precies zoals je zegt.
+nl_audio/00618.wav|Het nummer dat u gaf is niet correct. Kunt u mij het juiste telefoonnummer geven?
+nl_audio/00619.wav|Dat is precies wat ik bedoelde.
+nl_audio/00620.wav|zeven
+nl_audio/00621.wav|Mijn huisnummer is elf.
+nl_audio/00622.wav|Juist.
+nl_audio/00623.wav|Ja, ik heb een vast telefoonnummer.
+nl_audio/00624.wav|Jazeker
+nl_audio/00625.wav|negenentachtig
+nl_audio/00626.wav|Klopt het dat uw adres Bemuurde Weerd Oostzijde en de plaatsnaam Utrecht is?
+nl_audio/00627.wav|Dat klopt perfect.
+nl_audio/00628.wav|Mijn postcode is een drie acht een C L.
+nl_audio/00629.wav|Mijn postcode heeft de combinatie LMN.
+nl_audio/00630.wav|Dat is exact wat ik bedoelde.
+nl_audio/00631.wav|achtennegentig
+nl_audio/00632.wav|Dat is de juiste informatie.
+nl_audio/00633.wav|Ze noemen me
+nl_audio/00634.wav|Dat is exact wat ik bedoelde.
+nl_audio/00635.wav|Mijn telefoonnummer begint met de landcode +vier vier .
+nl_audio/00636.wav|Ik heb genoteerd Ruben Dekker. Is dit correct?
+nl_audio/00637.wav|Ik heb genoteerd Daan Jansen. Is dit correct?
+nl_audio/00638.wav|eenentwintig
+nl_audio/00639.wav|Mijn postcode is negenentwintig nul drie A C.
+nl_audio/00640.wav|een
+nl_audio/00641.wav|Mijn postcode is geldig voor mijn hele straat.
+nl_audio/00642.wav|Dat is inderdaad zo.
+nl_audio/00643.wav|Mijn postcode is zevenenzestig nul zes E C.
+nl_audio/00644.wav|Dat is helemaal in orde.
+nl_audio/00645.wav|Nee, mijn huisnummer is niet goed zichtbaar in het donker.
+nl_audio/00646.wav|Mijn buurman woont op nummer vierendertig B.
+nl_audio/00647.wav|Nee, ik heb geen vaste telefoonlijn.
+nl_audio/00648.wav|Ik heb genoteerd Adam van Dam. Is dit correct?
+nl_audio/00649.wav|Mijn huisnummer is een hoekhuisnummer.
+nl_audio/00650.wav|Nee, ik ben niet recentelijk verhuisd.
+nl_audio/00651.wav|Ik heb genoteerd nul negen acht zeven vier twee zes nul drie vijf . Is dit correct?
+nl_audio/00652.wav|Mijn oude adres was een appartement, nummer drieënzestig F.
+nl_audio/00653.wav|wij geven dit door
+nl_audio/00654.wav|Mijn postcode heeft de combinatie LMN.
+nl_audio/00655.wav|Zeker weten
+nl_audio/00656.wav|Dat is de juiste informatie.
+nl_audio/00657.wav|Mijn postcode is inderdaad negen nul één twee  X Y.
+nl_audio/00658.wav|Mijn postcode is achtennegentig zevenenvijftig Y L.
+nl_audio/00659.wav|Mijn huisnummer is dertien.
+nl_audio/00660.wav|Klopt het dat uw adres Nachtegaalstraat en de plaatsnaam Utrecht is?
+nl_audio/00661.wav|Er is een klacht ingediend door de bewoner van nummer vierendertig.
+nl_audio/00662.wav|eenenzestig
+nl_audio/00663.wav|Z
+nl_audio/00664.wav|Dat is mijn telefoonnummer.
+nl_audio/00665.wav|Het huisnummer dat u gaf lijkt niet te bestaan. Kunt u uw huisnummer herhalen?
+nl_audio/00666.wav|Klopt het dat uw adres Overtoom en de plaatsnaam Amsterdam is?
+nl_audio/00667.wav|Onze postcode is vijf zes zeven acht  C D.
+nl_audio/00668.wav|tweeëntwintig
+nl_audio/00669.wav|Dat is helemaal correct weergegeven.
+nl_audio/00670.wav|Mijn postcode is tien drieëntwintig P A.
+nl_audio/00671.wav|zesenvijftig
+nl_audio/00672.wav|Mijn postcode is vijfenzestig drieënveertig M Y.
+nl_audio/00673.wav|Ja, mijn postcode is recentelijk gewijzigd.
+nl_audio/00674.wav|Dat lijkt me goed.
+nl_audio/00675.wav|eenentwintig
+nl_audio/00676.wav|vijfentachtig
+nl_audio/00677.wav|Dat is mijn naam
+nl_audio/00678.wav|Klopt het dat uw adres Oudezijds Voorburgwal en de plaatsnaam Amsterdam is?
+nl_audio/00679.wav|Nee, mijn huisnummer heeft geen speciale betekenis.
+nl_audio/00680.wav|We wonen op nummer zeventien.
+nl_audio/00681.wav|Dat vind ik ook.
+nl_audio/00682.wav|Ik heb genoteerd nul acht acht zes nul één vier negen zeven drie . Is dit correct?
+nl_audio/00683.wav|Precies.
+nl_audio/00684.wav|Ze noemen me
+nl_audio/00685.wav|Het huisnummer dat u gaf lijkt niet te bestaan. Kunt u uw huisnummer herhalen?
+nl_audio/00686.wav|Mijn postcode is tweeënveertig nul zeven J W.
+nl_audio/00687.wav|Dat is mijn naam
+nl_audio/00688.wav|Mag ik uw huisnummer noteren?
+nl_audio/00689.wav|Mijn postcode is twee drie vier een F P.
+nl_audio/00690.wav|klopt
+nl_audio/00691.wav|Dat is volkomen juist.
+nl_audio/00692.wav|Mag ik dan nu uw postcode noteren?
+nl_audio/00693.wav|dertien
+nl_audio/00694.wav|Dat klopt als een zwerende vinger.
+nl_audio/00695.wav|Mijn postcode is dertien eenenachtig C L.
+nl_audio/00696.wav|Mijn postcode is drie twee zes een G A.
+nl_audio/00697.wav|vijfendertig
+nl_audio/00698.wav|Ja, mijn postcode is drie vier vijf zes  Z W.
+nl_audio/00699.wav|Klopt, ik woon in Amsterdam, postcode één nul één twee  K L
+nl_audio/00700.wav|Ik heb uw naam niet goed verstaan. Kunt u deze herhalen?
+nl_audio/00701.wav|Nee, mijn postcode bestaat niet uit alleen cijfers.
+nl_audio/00702.wav|Inderdaad.
+nl_audio/00703.wav|dat klopt
+nl_audio/00704.wav|nee
+nl_audio/00705.wav|Ja hoor, dat kan.
+nl_audio/00706.wav|Dat moet wel lukken.
+nl_audio/00707.wav|Klopt.
+nl_audio/00708.wav|vierentachtig
+nl_audio/00709.wav|Zeker wel
+nl_audio/00710.wav|Dat is spot on.
+nl_audio/00711.wav|Dat is helemaal correct weergegeven.
+nl_audio/00712.wav|Helemaal goed.
+nl_audio/00713.wav|zevenenvijftig
+nl_audio/00714.wav|Precies, ik ben
+nl_audio/00715.wav|Mijn postcode is vier drie drie zeven P H.
+nl_audio/00716.wav|Mag ik uw huisnummer noteren?
+nl_audio/00717.wav|Dat is het correcte nummer
+nl_audio/00718.wav|Ja, dat klopt.
+nl_audio/00719.wav|nee
+nl_audio/00720.wav|We laten het eten bezorgen. Ik woon in de eerste flat, op de tweede verdieping, bij de derde deur. Dat is nummer vierenveertig.
+nl_audio/00721.wav|Ik reken hem goed.
+nl_audio/00722.wav|Ik heb genoteerd Lucas Meijer. Is dit correct?
+nl_audio/00723.wav|Dat is drie acht nul negen  X F
+nl_audio/00724.wav|Dat klopt als een zwerende vinger.
+nl_audio/00725.wav|Dat is jammer, wij kunnen u dan sneller helpen. wilt u toch meewerken?
+nl_audio/00726.wav|zeshonderd
+nl_audio/00727.wav|Als je iets wilt komen lenen, ben je welkom op nummer zesenveertig.
+nl_audio/00728.wav|N
+nl_audio/00729.wav|Mijn postcode is een twee drie vier A G.
+nl_audio/00730.wav|ja
+nl_audio/00731.wav|twaalf
+nl_audio/00732.wav|Mijn postcode is drieënveertig zevenendertig P H.
+nl_audio/00733.wav|Dat is een goed idee.
+nl_audio/00734.wav|Mijn postcode is zevenenvijftig zesenzestig T E.
+nl_audio/00735.wav|Mag ik uw naam noteren?
+nl_audio/00736.wav|Mijn postcode is vier vier nul een B X.
+nl_audio/00737.wav|Ja, ik heb een verzekering voor mijn telefoon afgesloten.
+nl_audio/00738.wav|Dat is helemaal op de spijker.
+nl_audio/00739.wav|Mijn huisnummer heeft geen toevoeging, zoals A of B.
+nl_audio/00740.wav|Dat klopt als een zwerende vinger.
+nl_audio/00741.wav|Het nummer dat u gaf is niet correct. Kunt u mij het juiste telefoonnummer geven?
+nl_audio/00742.wav|Mijn huisnummer is een hoekhuisnummer.
+nl_audio/00743.wav|zeven
+nl_audio/00744.wav|Mijn postcode is drieënveertig zevenendertig P H.
+nl_audio/00745.wav|Ik heb uw antwoord niet begrepen. Kunt u het nogmaals proberen?
+nl_audio/00746.wav|Dat is het juiste nummer
+nl_audio/00747.wav|Mijn naam is
+nl_audio/00748.wav|Ik heb genoteerd nul negen vijf acht zeven twee vier nul negen vijf . Is dit correct?
+nl_audio/00749.wav|Ik ben te bereiken op
+nl_audio/00750.wav|Nee, ik ken mijn postcode niet volledig uit mijn hoofd.
+nl_audio/00751.wav|Ik sta bekend als
+nl_audio/00752.wav|honderd
+nl_audio/00753.wav|Dat is mijn naam
+nl_audio/00754.wav|vierenzestig
+nl_audio/00755.wav|Klopt, precies zoals je zegt.
+nl_audio/00756.wav|Ik heb genoteerd Julian de Groot. Is dit correct?
+nl_audio/00757.wav|Dat heb je helemaal juist.
+nl_audio/00758.wav|Goedemorgen. Ik ben Annemarie, de digitale medewerker. Om u goed en snel van dienst te zijn, vragen wij u om een aantal vragen te beantwoorden. Hierdoor kunnen mijn collega's u beter helpen. Wilt u mijn vragen beantwoorden ?
+nl_audio/00759.wav|Dank u voor het geven van uw naam. Is uw naam inderdaad kim ?
+nl_audio/00760.wav|Laten we doorgaan. Kunt u ons alstublieft uw straat vertellen
+nl_audio/00761.wav|Ik heb genoteerd negen acht nul drie acht één drie nul twee zes. Is dit correct ?
+nl_audio/00762.wav|Dank u voor het geven van uw telefoonnummer. Is uw telefoonnummer inderdaad negen acht vier vijf acht drie drie nul twee negen ?
+nl_audio/00763.wav|Ik heb genoteerd negen negen acht acht zeven zeven zes zes vijf vijf. Is dit correct ?
+nl_audio/00764.wav|Ik heb genoteerd Roelof van der Merwe. Is dit correct ?
+nl_audio/00765.wav|Dank u voor het geven van uw huisnummer. Is uw huisnummer inderdaad vierenzeventig Z ?
+nl_audio/00766.wav|Kunt u ons alstublieft uw postcode geven in plaats van het antwoord ja of nee ?
+nl_audio/00767.wav|Dank u voor het geven van uw naam. Is uw naam inderdaad paul van meekeren ?
+nl_audio/00768.wav|Op deze vraag verwacht ik een ja of nee antwoord. Kunt u mij dit geven ?
+nl_audio/00769.wav|Ik heb genoteerd Niels. Is dit correct ?
+nl_audio/00770.wav|Dank u voor het geven van uw huisnummer. Is uw huisnummer inderdaad zesentwintig K ?
+nl_audio/00771.wav|Ik heb uw huisnummer genoteerd. Is zesentwintig k het juiste huisnummer ?
+nl_audio/00772.wav|Ja, dat klopt.
+nl_audio/00773.wav|Ik heb uw postcode genoteerd. Is drie vijf zeven negen A D de juiste postcode ?
+nl_audio/00774.wav|Ik heb genoteerd negen acht vier vijf acht drie drie nul twee negen. Is dit correct ?
+nl_audio/00775.wav|Dat is jammer, dit helpt ons om u sneller te helpen. Wilt u toch meewerken ?
+nl_audio/00776.wav|Dank u voor het geven van uw huisnummer. Kunt u bevestigen dat uw straatnaam nieuwstraat en plaatsnaam lelystad zijn ?
+nl_audio/00777.wav|Ik heb uw postcode genoteerd. Is twee vier zes acht E F de juiste postcode ?
+nl_audio/00778.wav|Dank u voor het opgeven van de reden van u telefoongesprek. Is dit inderdaad product onderzoek ?
+nl_audio/00779.wav|Mag ik uw postcode noteren ?
+nl_audio/00780.wav|Ik heb uw huisnummer genoteerd. Is vierenzeventig Z het juiste huisnummer ?
+nl_audio/00781.wav|Excuses. Wij hebben u niet begrepen. Op deze vraag verwachten wij een ja of nee antwoord.
+nl_audio/00782.wav|Dank u voor het opgeven van de reden van u telefoongesprek. Is dit inderdaad onderzoek naar de zorgverzekering ?
+nl_audio/00783.wav|Dank u voor het geven van uw telefoonnummer. Is uw telefoonnummer inderdaad negen acht een vier twee acht nul negen nul vier ?
+nl_audio/00784.wav|Dank u voor het geven van uw huisnummer. Is uw huisnummer inderdaad een een A ?
+nl_audio/00785.wav|Dank u voor het geven van uw huisnummer. Is uw huisnummer inderdaad zesentwintig K ?
+nl_audio/00786.wav|Dat is spot on.
+nl_audio/00787.wav|Dat is jammer, wij kunnen u dan sneller helpen. Wilt u toch meewerken ?
+nl_audio/00788.wav|Goedemorgen. Ik ben Annemarie, de digitale medewerker. Om u goed en snel van dienst te zijn, vragen wij u om een aantal vragen te beantwoorden. Hierdoor kunnen mijn collega's u beter helpen. Wilt u mijn vragen beantwoorden ?
+nl_audio/00789.wav|Kunt u ons alstublieft uw postcode geven ?
+nl_audio/00790.wav|drieënveertig
+nl_audio/00791.wav|Ik heb genoteerd negen acht nul zes vier nul nul acht zeven nul. Is dit correct ?
+nl_audio/00792.wav|De postcode die u gaf is geen geldige postcode. Kunt u deze herhalen ?
+nl_audio/00793.wav|Klopt het dat uw adres Tuinstraat en de plaatsnaam Emmeloord is ?
+nl_audio/00794.wav|Dank u voor het geven van uw postcode. Is uw postcode inderdaad één vier acht drie r s ?
+nl_audio/00795.wav|Ik heb uw huisnummer genoteerd. Is twaalf j het juiste huisnummer ?
+nl_audio/00796.wav|dat klopt
+nl_audio/00797.wav|Ik heb genoteerd Paul van Meekeren. Is dit correct ?
+nl_audio/00798.wav|Dank u voor het geven van uw naam. Is uw naam inderdaad quinton de kock ?
+nl_audio/00799.wav|Ik heb genoteerd negen negen acht acht zeven zeven zes zes vijf vijf. Is dit correct ?
+nl_audio/00800.wav|Dank u voor het geven van uw huisnummer. Kunt u bevestigen dat uw straatnaam oak street en plaatsnaam almere zijn ?
+nl_audio/00801.wav|Ik heb genoteerd Quinton de Kock. Is dit correct ?
+nl_audio/00802.wav|Dank u voor het geven van uw huisnummer. Is uw huisnummer inderdaad zesentwintig k ?
+nl_audio/00803.wav|Ik heb uw postcode genoteerd. Is duizend driehonderd negenenveertig I J de juiste postcode ?
+nl_audio/00804.wav|Mag ik uw telefoonnummer noteren ?
+nl_audio/00805.wav|N
+nl_audio/00806.wav|Laten we doorgaan. Kunt u ons alstublieft uw naam vertellen
+nl_audio/00807.wav|Mag ik uw telefoonnummer noteren ?
+nl_audio/00808.wav|Dank u voor het geven van uw huisnummer. Kunt u bevestigen dat uw straatnaam elm boulevard en plaatsnaam amsterdam zijn ?
+nl_audio/00809.wav|Ik heb uw huisnummer genoteerd. Is negen vijf F het juiste huisnummer ?
+nl_audio/00810.wav|Goedenavond. Wij willen u graag efficiënter helpen. Hiervoor willen wij u graag enkele vragen stellen. Zoudt u deze willen beantwoorden?
+nl_audio/00811.wav|Dank u voor het geven van uw huisnummer. Is uw huisnummer inderdaad vierenzeventig Z ?
+nl_audio/00812.wav|Klopt het dat uw adres Cedar Lane en de plaatsnaam Emmen is ?
+nl_audio/00813.wav|Ik heb uw naam niet goed verstaan. Kunt u deze herhalen ?
+nl_audio/00814.wav|drieënveertig
+nl_audio/00815.wav|Dank u voor het geven van uw huisnummer. Is uw huisnummer inderdaad een een a ?
+nl_audio/00816.wav|Dank u voor het geven van uw telefoonnummer. Is uw telefoonnummer inderdaad negen acht nul zes vier nul nul acht zeven nul ?
+nl_audio/00817.wav|Dank u voor het geven van uw telefoonnummer. Is uw telefoonnummer inderdaad negen acht vier vijf acht drie drie nul twee negen ?
+nl_audio/00818.wav|Dank u voor het geven van uw huisnummer. Is uw huisnummer inderdaad een een a ?
+nl_audio/00819.wav|Ik heb uw postcode genoteerd. Is vijfduizend zeshonderdnegenentachtig r f de juiste postcode ?
+nl_audio/00820.wav|Dank u voor het geven van uw huisnummer. Is uw huisnummer inderdaad een een a ?
+nl_audio/00821.wav|Dat is jammer, dit helpt ons om u sneller te helpen. Wilt u toch meewerken ?
+nl_audio/00822.wav|Ik heb uw naam niet goed verstaan. Kunt u deze herhalen ?
+nl_audio/00823.wav|Klopt het dat uw adres Cedar Lane en de plaatsnaam Emmen is ?
+nl_audio/00824.wav|Dat klopt perfect.
+nl_audio/00825.wav|Kunt u mij uw postcode in plaats van ja of nee ?
+nl_audio/00826.wav|Het antwoord dat u gaf lijkt geen geldige postcode te zijn. Wilt uw ons alstublieft nogmaals uw postcode geven ?
+nl_audio/00827.wav|Ik heb uw huisnummer genoteerd. Is twee acht D het juiste huisnummer ?
+nl_audio/00828.wav|F
+nl_audio/00829.wav|Mijn postcode is zes zeven acht vijf G R.
+nl_audio/00830.wav|Mag ik uw naam noteren ?
+nl_audio/00831.wav|Correct.
+nl_audio/00832.wav|Dank u voor het bevestigen van uw adres. Kunt u ons vertellen waarvoor u belt ?
+nl_audio/00833.wav|Klopt het dat uw adres Tuinstraat en de plaatsnaam Emmeloord is ?
+nl_audio/00834.wav|Dank u voor het opgeven van de reden van u telefoongesprek. Is dit inderdaad product onderzoek ?
+nl_audio/00835.wav|Hartelijk bedankt voor uw tijd.
+nl_audio/00836.wav|Kunt u mij uw postcode in plaats van ja of nee ?
+nl_audio/00837.wav|Ik heb genoteerd negen zeven vijf drie een acht zes vier twee nul. Is dit correct ?
+nl_audio/00838.wav|Op deze vraag verwachten wij een ja of nee antwoord. Wilt u verder gaan ?
+nl_audio/00839.wav|Dank u voor het geven van uw postcode. Is uw postcode inderdaad vijfduizend zeshonderdnegenentachtig r f ?
+nl_audio/00840.wav|Dank u voor het geven van uw naam. Is uw naam inderdaad logan vann beek ?
+nl_audio/00841.wav|Ik heb uw antwoord niet begrepen. Kunt u het nogmaals proberen ?
+nl_audio/00842.wav|Ik heb uw postcode genoteerd. Is vijfduizend zeshonderdnegenentachtig R F de juiste postcode ?
+nl_audio/00843.wav|Dank u voor het geven van uw postcode. Kunt u ons alstublieft uw huisnummer geven ?
+nl_audio/00844.wav|Ik heb genoteerd Joost. Is dit correct ?
+nl_audio/00845.wav|Dank u voor het geven van uw postcode. Is uw postcode inderdaad een twee drie vier G H ?
+nl_audio/00846.wav|Dat is jammer, dit helpt ons om u sneller te helpen. Wilt u toch meewerken ?
+nl_audio/00847.wav|Ik heb uw huisnummer genoteerd. Is een een a het juiste huisnummer ?
+nl_audio/00848.wav|Kunt u ons alstublieft uw huisnummer geven ?
+nl_audio/00849.wav|Dank u voor het geven van uw telefoonnummer. Kunt u ons alstublieft uw postcode geven ?
+nl_audio/00850.wav|Kunt u ons alstublieft uw postcode geven ?
+nl_audio/00851.wav|Dank u voor het bevestigen van uw adres. Kunt u ons vertellen waarvoor u belt ?
+nl_audio/00852.wav|Mag ik dan nu uw postcode noteren ?
+nl_audio/00853.wav|Dat is jammer, dit helpt ons om u sneller te helpen. Wilt u toch meewerken ?
+nl_audio/00854.wav|Ik heb uw huisnummer genoteerd. Is een een A het juiste huisnummer ?
+nl_audio/00855.wav|Ik heb uw huisnummer genoteerd. Is zes negen m het juiste huisnummer ?
+nl_audio/00856.wav|Excuses. Wij hebben u niet begrepen. Op deze vraag verwachten wij een ja of nee antwoord.
+nl_audio/00857.wav|Ja, dat klopt.
+nl_audio/00858.wav|Ik heb uw huisnummer genoteerd. Is twee acht D het juiste huisnummer ?
+nl_audio/00859.wav|Goedenavond. Ik ben Annemarie, de digitale medewerker. Om u goed en snel van dienst te zijn, vragen wij u om een aantal vragen te beantwoorden. Hierdoor kunnen mijn collega's u beter helpen. Wilt u mijn vragen beantwoorden ?
+nl_audio/00860.wav|Ik heb uw postcode genoteerd. Is drie vijf zeven negen a d de juiste postcode ?
+nl_audio/00861.wav|Ik heb genoteerd Lutsharel Geertruida. Is dit correct ?
+nl_audio/00862.wav|Da's mijn naam
+nl_audio/00863.wav|Het antwoord dat u gaf lijkt geen geldige postcode te zijn. Wilt uw ons alstublieft nogmaals uw postcode geven ?
+nl_audio/00864.wav|Ik heb genoteerd negen negen acht acht zeven zeven zes zes vijf vijf. Is dit correct ?
+nl_audio/00865.wav|Ik heb genoteerd negen acht nul drie acht één drie nul twee zes. Is dit correct ?
+nl_audio/00866.wav|Dat is jammer, wij kunnen u dan sneller helpen. Wilt u toch meewerken ?
+nl_audio/00867.wav|Kunt u mij uw telefoonnummer geven in plaats van ja of nee ?
+nl_audio/00868.wav|Ik heb genoteerd Max van Dijk. Is dit correct?
+nl_audio/00869.wav|Ik heb genoteerd Logan Vann Beek. Is dit correct ?
+nl_audio/00870.wav|Goedenavond. Ik ben Annemarie, de digitale medewerker. Om u goed en snel van dienst te zijn, vragen wij u om een aantal vragen te beantwoorden. Hierdoor kunnen mijn collega's u beter helpen. Wilt u mijn vragen beantwoorden ?
+nl_audio/00871.wav|Laten we doorgaan. Kunt u ons alstublieft uw straat vertellen
+nl_audio/00872.wav|Ik heb uw huisnummer genoteerd. Is vierenzeventig Z het juiste huisnummer ?
+nl_audio/00873.wav|Ik heb uw postcode genoteerd. Is zesduizend negenhonderdnegenenzestig m k de juiste postcode ?
+nl_audio/00874.wav|Laten we doorgaan. Kunt u ons alstublieft uw straat vertellen
+nl_audio/00875.wav|Dank u. Laten we verder gaan. Kunt u ons uw naam vertellen?
+nl_audio/00876.wav|Daar ben ik het mee eens.
+nl_audio/00877.wav|Ik heb genoteerd Joost. Is dit correct ?
+nl_audio/00878.wav|Dank u voor het opgeven van de reden van u telefoongesprek. Is dit inderdaad gas lekkage ?
+nl_audio/00879.wav|Ik heb uw huisnummer genoteerd. Is elf E het juiste huisnummer ?
+nl_audio/00880.wav|Ik heb uw postcode genoteerd. Is zesduizend negenhonderdnegenenzestig m k de juiste postcode ?
+nl_audio/00881.wav|Mijn postcode is negen een nul twee C W.
+nl_audio/00882.wav|Ik heb genoteerd negen acht vijf vijf nul twee één één nul vier. Is dit correct ?
+nl_audio/00883.wav|Dat is jammer, dit helpt ons om u sneller te helpen. Wilt u toch meewerken ?
+nl_audio/00884.wav|Dank u voor het geven van uw huisnummer. Kunt u bevestigen dat uw straatnaam kruisstraat en plaatsnaam hoogeveen zijn ?
+nl_audio/00885.wav|Dank u voor het geven van uw postcode. Is uw postcode inderdaad vijfduizend zeshonderdnegenentachtig r f ?
+nl_audio/00886.wav|Ik heb uw postcode genoteerd. Is één vier acht drie r s de juiste postcode ?
+nl_audio/00887.wav|Dat is helemaal juist weergegeven.
+nl_audio/00888.wav|Ik heb uw postcode genoteerd. Is één vier acht drie R S de juiste postcode ?
+nl_audio/00889.wav|Ik heb genoteerd Quinton de Kock. Is dit correct ?
+nl_audio/00890.wav|Dank u voor het geven van uw postcode. Is uw postcode inderdaad duizend driehonderd negenenveertig I J ?
+nl_audio/00891.wav|Klopt het dat uw adres Zeestraat en de plaatsnaam Biddinghuizen is ?
+nl_audio/00892.wav|Ik heb uw postcode genoteerd. Is tweeduizendachthonderdvierennegentig i e de juiste postcode ?
+nl_audio/00893.wav|Op deze vraag verwacht ik uw naam als antwoord. Kunt u mij uw naam geven ?
+nl_audio/00894.wav|Dank u voor het geven van uw postcode. Is uw postcode inderdaad een twee drie vier g h ?
+nl_audio/00895.wav|Op deze vraag verwacht ik een ja of nee antwoord. Kunt u mij dit geven ?
+nl_audio/00896.wav|Mijn dank dus voor deze bijdrage aan het complexe kwijtingsverhaal.
+nl_audio/00897.wav|Het is niet nodig om eindeloos te blijven debatteren.
+nl_audio/00898.wav|Klopt het dat uw adres Langestraat één vijf  e n de plaatsnaam Haarlem is?
+nl_audio/00899.wav|Een gaslekkage kan snel escaleren, en in ons geval leidde de ontdekking van één lekkage tot het vinden van meerdere gaslekkages, wat ons dwong om het hele gasnetwerk te vernieuwen om toekomstige lekkages te voorkomen.
+nl_audio/00900.wav|Om de opname te beginnen spreek na de piep
+nl_audio/00901.wav|Ik woon in Breda
+nl_audio/00902.wav|Ik heb voor u genoteerd: lekkage in de keuken. Is dit correct?
+nl_audio/00903.wav|Ik heb genoteerd één twee drie vier vijf zes zeven acht negen nul. Is dit correct?
+nl_audio/00904.wav|Vorig seizoen zijn er twee leden van onze skiclub omgekomen in een lawine.
+nl_audio/00905.wav|Mijn postcode is vier drie één één  B V
+nl_audio/00906.wav|Mijn postcode is vier drie twee één  M V
+nl_audio/00907.wav|U kunt dit betreuren, maar zo is het.
+nl_audio/00908.wav|Mijn postcode is vijf zes zeven acht  M E
+nl_audio/00909.wav|Ik woon aan de Julianastraat
+nl_audio/00910.wav|Je moet de tweede afrit nemen.
+nl_audio/00911.wav|En het spreekt vanzelf dat vrouwen veel zwaarder door werkloosheid getroffen worden dan mannen.
+nl_audio/00912.wav|Op dit punt wacht ons nog veel werk!.
+nl_audio/00913.wav|vijfenzeventig
+nl_audio/00914.wav|De man weigerde meerdere keren aan het DNA-onderzoek mee te werken.
+nl_audio/00915.wav|Ik heb genoteerd één vier vijf acht twee nul zes drie negen zeven. Is dit correct?
+nl_audio/00916.wav|Ik woon aan de Nieuwstraat
+nl_audio/00917.wav|Ik kan het waardevolle werk van de rapporteur dan ook alleen maar steunen.
+nl_audio/00918.wav|Ik heb uw postcode genoteerd. Is acht nul één één  C P de juiste postcode?
+nl_audio/00919.wav|Dit kan natuurlijk niet worden gedaan op basis van een democratisch besluit.
+nl_audio/00920.wav|Ik woon in Rotterdam
+nl_audio/00921.wav|Hetzelfde geldt ook voor regulering op mondiaal niveau.
+nl_audio/00922.wav|Ik woon aan de Nieuwstraat
+nl_audio/00923.wav|Ik heb voor u genoteerd: lekkage in de zolder. Is dit correct?
+nl_audio/00924.wav|De koningin heeft een mooie hoed uitgezocht voor de gelegenheid.
+nl_audio/00925.wav|eenentwintig
+nl_audio/00926.wav|Ik heb er geen enkel bezwaar tegen dat wij ons daarover samen blijven bezinnen.
+nl_audio/00927.wav|Die boodschap moet je goed kaderen.
+nl_audio/00928.wav|Ik heb genoteerd zes acht nul één  E L
+nl_audio/00929.wav|Machu Picchu is een oude stad in Peru.
+nl_audio/00930.wav|Ik woon aan de Kerkstraat
+nl_audio/00931.wav|In de optiek van dit verslag rust de noordelijke dimensie op drie prachtige pijlers.
+nl_audio/00932.wav|Ik woon aan de Maliebaan
+nl_audio/00933.wav|Ik wil je bedanken voor het bedrag dat je me gaf.
+nl_audio/00934.wav|Ik woon aan de Oosterkade
+nl_audio/00935.wav|Mijn postcode is vijf zes zeven acht  M E
+nl_audio/00936.wav|Dit is momenteel slechts op enkele routes het geval.
+nl_audio/00937.wav|Wat voor een reden zou een dergelijk barbaars gedrag kunnen rechtvaardigen?
+nl_audio/00938.wav|Op die manier kan het algoritme getraind worden op stille en luide zinnen.
+nl_audio/00939.wav|Mijn postcode is één twee drie vier  A B
+nl_audio/00940.wav|Wie met honden omgaat, krijgt vlooien.
+nl_audio/00941.wav|De loods loodst het vrachtschip tussen de zandbanken door.
+nl_audio/00942.wav|Ik woon aan de Appeltjeslaan
+nl_audio/00943.wav|Ik kan het beamen.
+nl_audio/00944.wav|één
+nl_audio/00945.wav|Het is zes acht nul één  E L
+nl_audio/00946.wav|Mijn postcode is twee één nul één  L W
+nl_audio/00947.wav|Kan je deze zin roepen?
+nl_audio/00948.wav|Dat is zeven zes vijf vier  L A
+nl_audio/00949.wav|Ik ga de rand afwerken met silicone.
+nl_audio/00950.wav|Mijn postcode is drie twee één nul  L A
+nl_audio/00951.wav|Mijns inziens moeten wij beiden doen, ook indien hiertussen een zekere spanning kan bestaan.
+nl_audio/00952.wav|Ik heb uw huisnummer genoteerd. Is drie twee  het juiste huisnummer?
+nl_audio/00953.wav|Neem je soms de metro?
+nl_audio/00954.wav|Het is toch vermoeiend om zoveel zinnen te schrijven.
+nl_audio/00955.wav|Dat boek is veel te duur, bovendien heb ik geen tijd om naar de boekenhandel te gaan.
+nl_audio/00956.wav|Zal je geen spijt krijgen van het verkopen van je huis?
+nl_audio/00957.wav|Steden worden alleen ruïnes als ze worden verlaten.
+nl_audio/00958.wav|acht
+nl_audio/00959.wav|Zimbabwe heeft het hoogste percentage wezen ter wereld.
+nl_audio/00960.wav|Ik woon aan de Rijswijkseweg
+nl_audio/00961.wav|Ook in het onderzoeksbeleid is hernationalisatie het verkeerde antwoord op de grote uitdagingen.
+nl_audio/00962.wav|Ik heb uw postcode genoteerd. Is vier acht één één  H L de juiste postcode?
+nl_audio/00963.wav|De kussens in dat hotel waren niet dik genoeg.
+nl_audio/00964.wav|"Voorzitter, collega's, mijnheer de commissaris, mijn complimenten aan de drie rapporteurs.".
+nl_audio/00965.wav|Dat is negen zeven één één  L I
+nl_audio/00966.wav|Wij zullen echter niet rusten voordat ons doel verwezenlijkt is.
+nl_audio/00967.wav|Mijn postcode is vijf vier drie twee  W E
+nl_audio/00968.wav|Wij hebben daarvoor een integratie in de bibliotheken en de openbare instanties nodig.
+nl_audio/00969.wav|Ik wil herhalen wat ik eerder al gezegd heb.
+nl_audio/00970.wav|Ik heb genoteerd vijf zes zeven acht  M E
+nl_audio/00971.wav|Door de vervorming van de spiegel leken ze dikker dan ze waren.
+nl_audio/00972.wav|De politie heeft na een undercoveroperatie van een jaar eindelijk die drugsbende kunnen ontmaskeren.
+nl_audio/00973.wav|Ik woon aan de Zijlstraat
+nl_audio/00974.wav|Mijn postcode is vijf zes één één  B V
+nl_audio/00975.wav|Ik hoop dat er in de toekomst een constructieve benadering mogelijk zal zijn.
+nl_audio/00976.wav|Laten wij proberen er het beste van te maken!.
+nl_audio/00977.wav|De uitzendkracht had wel het gevoel dat hij bij het team hoorde.
+nl_audio/00978.wav|Ik heb genoteerd één vier zeven drie nul vijf acht negen twee zes. Is dit correct?
+nl_audio/00979.wav|Klopt het dat uw adres Bakkerstraat twee vijf  e n de plaatsnaam Arnhem is?
+nl_audio/00980.wav|Dat is één twee drie vier  A B
+nl_audio/00981.wav|vierennegentig
+nl_audio/00982.wav|Ik woon aan de Parallelweg
+nl_audio/00983.wav|Ik heb genoteerd vijf zes één één  B V
+nl_audio/00984.wav|Landbouw is een moeilijk onderwerp, en ik heb grote waardering voor haar aanpak.
+nl_audio/00985.wav|Ze had te veel lippenstift gebruikt.
+nl_audio/00986.wav|De juf stond vooraan.
+nl_audio/00987.wav|Vandaag maak ik het internet inclusiever.
+nl_audio/00988.wav|Ik woon aan de Witte de Withstraat
+nl_audio/00989.wav|Voor spoorverkeer bieden tunnels ruimere mogelijkheden, maar ook daar zijn vluchtwegen nodig.
+nl_audio/00990.wav|Druk één  o m je melding op te nemen of twee  o m de het gesprek te hervatten
+nl_audio/00991.wav|De verklaring was nog simpeler.
+nl_audio/00992.wav|De rapporteur wil op een wat slimmere manier het onverenigbare verenigen.
+nl_audio/00993.wav|zestig
+nl_audio/00994.wav|Het inflatiepercentage is thans historisch laag.
+nl_audio/00995.wav|Goed, dan zijn we klaar om te vertrekken.
+nl_audio/00996.wav|Dat is één twee nul nul  L I
+nl_audio/00997.wav|China zal daarin een zeer belangrijke stem hebben.
+nl_audio/00998.wav|tweeëndertig
+nl_audio/00999.wav|Mijn postcode is zeven acht negen nul  A E
+nl_audio/01000.wav|Ik heb genoteerd acht negen nul één twee drie vier vijf zes zeven. Is dit correct?
+nl_audio/01001.wav|Ik woon aan de Herengracht
+nl_audio/01002.wav|Mijn postcode is twee drie vier vijf  M B
+nl_audio/01003.wav|Ik heb uw huisnummer genoteerd. Is één drie  het juiste huisnummer?
+nl_audio/01004.wav|Zo ja, dan moet worden bepaald wat zijn status is.
+nl_audio/01005.wav|Ik betreur het dat de kapitaalvereisten in hun huidige vorm in de richtlijn staan.
+nl_audio/01006.wav|Ik dank de geachte afgevaardigde voor haar vriendelijke opmerkingen en voor haar vraag.
+nl_audio/01007.wav|éénentachtig
+nl_audio/01008.wav|Het gaat nu niet over leraren die aangenomen worden.
+nl_audio/01009.wav|Mijn ouders wonen dicht bij Hoofddorp.
+nl_audio/01010.wav|Tussen deze feiten bestaat duidelijk een verband.
+nl_audio/01011.wav|Mijn postcode is één twee één zeven  M E
+nl_audio/01012.wav|Ik woon in Amsterdam
+nl_audio/01013.wav|zevenenveertig
+nl_audio/01014.wav|Hoe is nu de stand van zaken?
+nl_audio/01015.wav|Waar heeft u uw wagen geparkeerd?
+nl_audio/01016.wav|Het was een mega monster gemaakt van metaal.
+nl_audio/01017.wav|Ik wil officieel protest aantekenen tegen deze wijziging.
+nl_audio/01018.wav|Daarvoor moeten wij een nieuwe oplossing zien te vinden.
+nl_audio/01019.wav|één
+nl_audio/01020.wav|In januari begint het jaar.
+nl_audio/01021.wav|Mijn postcode is drie vijf nul één  L B
+nl_audio/01022.wav|Het niveau van vertegenwoordiging van de zuidelijke oever was teleurstellend.
+nl_audio/01023.wav|Ik woon aan de St. Annastraat
+nl_audio/01024.wav|Ik heb genoteerd Emma de Vries. Is dit correct?
+nl_audio/01025.wav|De onderlinge verbinding van de bestaande netten stelt zowel materiële als juridische problemen.
+nl_audio/01026.wav|Ik woon aan de Schoolstraat
+nl_audio/01027.wav|Ik ben het grootste deel van mei niet thuis.
+nl_audio/01028.wav|Dat is twee drie vier vijf  M B
+nl_audio/01029.wav|vierenzeventig
+nl_audio/01030.wav|Ik heb genoteerd acht negen nul één twee drie vier vijf zes zeven. Is dit correct?
+nl_audio/01031.wav|Ik richt mij daarom op de procedure.
+nl_audio/01032.wav|De regering denkt de belasting volgend jaar te moeten verhogen.
+nl_audio/01033.wav|De monteur waarschuwde dat een kleine gaslekkage vaak een voorbode is van een grotere gaslekkage, dus we moesten alle leidingen grondig controleren om toekomstige gaslekkages te voorkomen.
+nl_audio/01034.wav|Ik heb genoteerd negen nul één twee drie vier vijf zes zeven acht. Is dit correct?
+nl_audio/01035.wav|Mag ik je handtekening?
+nl_audio/01036.wav|Klopt het dat uw adres Stationsstraat één twee  e n de plaatsnaam Utrecht is?
+nl_audio/01037.wav|Ik heb voor u genoteerd: afspraak maken. Is dit correct?
+nl_audio/01038.wav|Mag ik uw straat noteren?
+nl_audio/01039.wav|drieëndertig
+nl_audio/01040.wav|De eerste lekkage werd snel gerepareerd, maar kort daarna ontstond er opnieuw lekkage, waardoor we moesten overwegen om het hele leidingsysteem te vernieuwen om verdere lekkages te voorkomen.
+nl_audio/01041.wav|Er zijn zeker positieve kanten aan dit verslag.
+nl_audio/01042.wav|Ik heb uw postcode genoteerd. Is één nul één twee  A B de juiste postcode?
+nl_audio/01043.wav|Hun succes blijft maar duren.
+nl_audio/01044.wav|Ik woon in Nijmegen
+nl_audio/01045.wav|Het regent pijpenstelen.
+nl_audio/01046.wav|Ik woon aan de Molenweg
+nl_audio/01047.wav|Die samenwerking, die vrijwillig tot stand is gekomen, zal spoedig concrete resultaten opleveren.
+nl_audio/01048.wav|Ik eindig met twee overwegingen.
+nl_audio/01049.wav|Ik woon aan de Willem de Zwijgerlaan
+nl_audio/01050.wav|In ons buurland zien wij nu een herhaling van dit eeuwenoude recept.
+nl_audio/01051.wav|Daarmee zijn we aan het einde gekomen.
+nl_audio/01052.wav|Zijn akte werd ten onrechte gesloten.
+nl_audio/01053.wav|Op het einde is de operatie niet goed afgelopen.
+nl_audio/01054.wav|Kijk maar eens waar de euro nu op staat.
+nl_audio/01055.wav|Het is vier drie één één  B V
+nl_audio/01056.wav|Dat is volgens mij geen goede zaak.
+nl_audio/01057.wav|negentien
+nl_audio/01058.wav|Ik heb voor u genoteerd: internetstoring. Is dit correct?
+nl_audio/01059.wav|Dank je
+nl_audio/01060.wav|Wij zullen ons voor deze doelen blijven inzetten.
+nl_audio/01061.wav|De voorstellen die onderwerp zijn van het huidige debat, zijn daar specifiek voor bedoeld.
+nl_audio/01062.wav|Ik woon aan de Oosterkade
+nl_audio/01063.wav|Hij was de sleutel van de voordeur verloren en dus moest de slotenmaker komen om het slot open te breken.
+nl_audio/01064.wav|Deze is eveneens uiterst belangrijk.
+nl_audio/01065.wav|zeven
+nl_audio/01066.wav|Dat is negen acht zeven zes  V E
+nl_audio/01067.wav|Klopt het dat uw adres Dorpsstraat zeven  e n de plaatsnaam Rotterdam is?
+nl_audio/01068.wav|De manier waarop wij het systeem opzetten is daarom cruciaal.
+nl_audio/01069.wav|Ik vind dat vanzelfsprekend.
+nl_audio/01070.wav|De steun is ook bij de hulpbehoevenden terechtgekomen.
+nl_audio/01071.wav|Ten eerste kan een contract pas aan het einde van het seizoen worden opgezegd.
+nl_audio/01072.wav|Wanneer er een natuurramp plaatsvindt is herprogrammering mogelijk.
+nl_audio/01073.wav|Pinyin is de naam van de notatie om Mandarijn in Latijnse letters op te schrijven.
+nl_audio/01074.wav|Hierbij is duidelijk een belangrijke rol weggelegd voor recycling.
+nl_audio/01075.wav|Het apenstaartje wordt vaak uitgesproken als "at".
+nl_audio/01076.wav|Deze wandaden vormen een oorlogsverklaring aan de vrije wereld.
+nl_audio/01077.wav|Ik ben akkoord gegaan met compromissen die ik liever had vermeden.
+nl_audio/01078.wav|Op nationaal en regionaal niveau moet vrijelijk gekozen kunnen worden voor een specifiek beleid.
+nl_audio/01079.wav|Zijn repertoire is slechts beperkt.
+nl_audio/01080.wav|Andere hoofdstukken volgen aan het eind van het jaar.
+nl_audio/01081.wav|Frietjes maak je in een friteuse.
+nl_audio/01082.wav|De treinreizigers moesten wachten op de vertraagde trein.
+nl_audio/01083.wav|De derde kwestie betreft ten slotte het buitenlandse beleid.
+nl_audio/01084.wav|Deze twee dingen kunnen ook zonder statuut van de leden.
+nl_audio/01085.wav|De vlieg zit vast in het spinnenweb.
+nl_audio/01086.wav|Ook zij wachten op dit signaal.
+nl_audio/01087.wav|Het was een grapje hoor.
+nl_audio/01088.wav|Pinyin is de naam van de notatie om Mandarijn in Latijnse letters op te schrijven.
+nl_audio/01089.wav|De mars zou in maart moeten zijn.
+nl_audio/01090.wav|Wie zijn gat brandt, moet op de blaren zitten.
+nl_audio/01091.wav|Ik verzoek de fungerend voorzitter dan ook om een open houding te handhaven.
+nl_audio/01092.wav|Wij willen een ambitieuze aanpak van deze zaken.
+nl_audio/01093.wav|We zijn bijna een uur gestopt bij dat wegrestaurant.
+nl_audio/01094.wav|Mijn mama maakt altijd heerlijke tiramisu.
+nl_audio/01095.wav|Iets anders mag niet meer gebruikt worden.
+nl_audio/01096.wav|Aan de andere kant zijn de processen er nu.
+nl_audio/01097.wav|Soms is het nodig om alleen over vrede te praten.
+nl_audio/01098.wav|Wij weten niet hoe op deze waarschuwingen wordt gereageerd.
+nl_audio/01099.wav|Toch blijft er helaas geen andere mogelijkheid over dan tegen te stemmen.
+nl_audio/01100.wav|Het lijkt me, mijnheer de commissaris, dat u hiervoor een pleitbezorger zou kunnen worden.
+nl_audio/01101.wav|Maar er moet wel iets gebeuren.
+nl_audio/01102.wav|Er bevindt zich teveel slib in de rivierbedding.
+nl_audio/01103.wav|Dat kent men in het land van de commissaris en in mijn land.
+nl_audio/01104.wav|Dat moet niet worden afgezwakt door ook andere doelen te willen nastreven.
+nl_audio/01105.wav|De regisseur was enorm trots op dat project.
+nl_audio/01106.wav|In het Nederlands schrijf je soms woorden aaneen als een samenstelling.
+nl_audio/01107.wav|We willen dat deze procesrechten onderdeel vormen van een pakket.
+nl_audio/01108.wav|Australië ligt aan de andere kant van de wereld.
+nl_audio/01109.wav|Veel documenten zijn reeds toegankelijk.
+nl_audio/01110.wav|Dat moet kunnen, dus naar onze mening moet die acht dagen eruit.
+nl_audio/01111.wav|Er stond een Mariabeeldje in de nis boven de haard.
+nl_audio/01112.wav|Quota moeten volledig worden afgeschaft en het evenwicht binnen de markt moet worden hersteld.
+nl_audio/01113.wav|Ik zie overigens niet veel initiatieven op het gebied van milieuwetgeving.
+nl_audio/01114.wav|Ik ben bang dat uw rol in de onderhandelingen niet productief is geweest.
+nl_audio/01115.wav|Veel zaadvariëteiten, van zowel graanproducten als groenten, worden niet meer dagelijks gebruikt.
+nl_audio/01116.wav|Mijn advies heeft unanieme steun gekregen.
+nl_audio/01117.wav|We mogen de gevolgen van de klimaatverandering voor de voedselproductie niet vergeten.
+nl_audio/01118.wav|Aan deze gebieden moet bij de volgende ronde absoluut prioriteit worden gegeven.
+nl_audio/01119.wav|Vandaar dat we een dag eerder naar huis zijn gegaan.
+nl_audio/01120.wav|De schuifdeur zit geblokkeerd en gaat niet meer dicht.
+nl_audio/01121.wav|Er moet ook rekening worden gehouden met de verschillende behoeftes van de regio's.
+nl_audio/01122.wav|Ze feestten verder tot in de vroege uurtjes.
+nl_audio/01123.wav|Hmm, een mojito is lekker verfrissend.
+nl_audio/01124.wav|Ik denk dat een paneldiscussie nuttig zou zijn.
+nl_audio/01125.wav|We moeten onze principes consequent toepassen.
+nl_audio/01126.wav|Ik denk dat we onvoldoende hebben gedaan op het gebied van onderzoek en ontwikkeling.
+nl_audio/01127.wav|Het journaal toonde enkele sfeerbeelden.
+nl_audio/01128.wav|Oostenrijk is een populaire plek om op wintersport te gaan.
+nl_audio/01129.wav|Want die discriminatie is namelijk nu al een feit.
+nl_audio/01130.wav|Ik verzoek hen derhalve plaats te nemen bij de stembussen.
+nl_audio/01131.wav|De vergaderingen waarin onze commissies wetgeving voorbereiden zijn openbaar.
+nl_audio/01132.wav|De brandweer kwam pas ter plaatse toen de vlammen al uit het gebouw sloegen.
+nl_audio/01133.wav|Er zijn goede investeringen gedaan, maar het niveau is te laag.
+nl_audio/01134.wav|Het een sluit het ander niet uit.
+nl_audio/01135.wav|Eskimo's leven in Groenland en bouwen iglo's.
+nl_audio/01136.wav|Soms komt zo’n verbetering voort uit onderzoek naar een bestaande stof.
+nl_audio/01137.wav|Het was een mopje hoor.
+nl_audio/01138.wav|Laten wij op korte termijn praktisch zijn.
+nl_audio/01139.wav|Onze taken nemen immers al toe.
+nl_audio/01140.wav|Er is mij alles aan gelegen aan die eis te beantwoorden.
+nl_audio/01141.wav|Het komt erop aan de afspraken te eerbiedigen.
+nl_audio/01142.wav|De jurk was gemaakt van zijde.
+nl_audio/01143.wav|Er is in het geval van deze mannen sprake van willekeurige detentie.
+nl_audio/01144.wav|Het verslag verwijst bovendien naar enkele feiten die onjuist zijn.
+nl_audio/01145.wav|De Verenigde Staten is het enige Westerse land dat de doodstraf nog toepast.
+nl_audio/01146.wav|Wij hebben enkele amendementen ingediend die in deze richting gaan.
+nl_audio/01147.wav|Deze memoranda waren niet bedoeld als rechtsgrond voor de uitwisseling van gegevens.
+nl_audio/01148.wav|Tim had alweer een onvoldoende op zijn test.
+nl_audio/01149.wav|Ze zouden eens wat meer liedjes moeten draaien op de radio in plaats van altijd die commentaar.
+nl_audio/01150.wav|Ik leg het ontwerpbesluit in zijn geheel ter stemming voor.
+nl_audio/01151.wav|Er moet dan ook een grondwetgevende procedure komen.
+nl_audio/01152.wav|Nu komt de echte uitdaging eraan.
+nl_audio/01153.wav|Het moet gezamenlijk en in samenwerking gebeuren.
+nl_audio/01154.wav|Dit is een volstrekt wenselijke maatregel die aanmoediging verdiend.
+nl_audio/01155.wav|Natuurlijk zijn niet al die investeringen in strijd met het internationaal recht.
+nl_audio/01156.wav|We moeten die kloof overbruggen.
+nl_audio/01157.wav|Amsterdam is geen echec, een kleine stap vooruit.
+nl_audio/01158.wav|Het is tijd om in te stappen.
+nl_audio/01159.wav|Deze mogelijkheid hebben zij nu niet.
+nl_audio/01160.wav|Er moet dringend iets gebeuren, en het moet goed gebeuren.
+nl_audio/01161.wav|De paus keurt anticonceptie af.
+nl_audio/01162.wav|De werkelijkheid is dat een aanzienlijke geldsom niet goed is benut.
+nl_audio/01163.wav|Zou het tegenwoordig toegestaan moeten worden?
+nl_audio/01164.wav|Welke mogelijke behandelingen staan hun ter beschikking?
+nl_audio/01165.wav|Er is behoefte aan een sterkere en meer samenhangende strategie.
+nl_audio/01166.wav|Men geeft slechts een aanzet tot een aantal zeer algemene uitgangspunten en perspectieven.
+nl_audio/01167.wav|Zij willen dat de rechtsstaat, justitie en het rechtsstelsel iedereen dezelfde bescherming bieden.
+nl_audio/01168.wav|Ik vind de stekker niet.
+nl_audio/01169.wav|Jaarlijks worden duizenden opdrachten gegund door openbare, vaak regionale of lokale besturen.
+nl_audio/01170.wav|Er is eigenlijk maar één groot probleem overgebleven, dat zijn de fosfaten.
+nl_audio/01171.wav|In dat woordenboek kan je de vertaling van Nederlandse woorden naar het Frans opzoeken.
+nl_audio/01172.wav|Ik heb dit persoonlijk zo ervaren.
+nl_audio/01173.wav|Iedereen heeft iets opgeofferd om tot een evenwichtige oplossing te komen.
+nl_audio/01174.wav|Kan je onmiddelijk naar ons toe komen?
+nl_audio/01175.wav|Ik verving de batterijen met nieuwe dubbel-A-batterijen.
+nl_audio/01176.wav|Zijn voornaam is Matthias.
+nl_audio/01177.wav|De porseleinen vaas viel in duizend stukken op de grond.
+nl_audio/01178.wav|Het is goed dat de onderhandelingen nu gaan beginnen.
+nl_audio/01179.wav|Een dergelijke beoordeling achteraf is bijzonder leerzaam.
+nl_audio/01180.wav|De batterij van deze telefoon is maar zwak.
+nl_audio/01181.wav|Ons advies is toen onder tafel beland, waarna er een klacht is ingediend.
+nl_audio/01182.wav|Je moet wat geduld hebben met deze computer.
+nl_audio/01183.wav|Er wordt onvoldoende rekening gehouden met de criteria voor het verlenen van steun.
+nl_audio/01184.wav|Voorzitter, wat uit het moeras getrokken moet worden mag niet zwaarder worden belast.
+nl_audio/01185.wav|Ze gaan het eerst slopen en er dan een nieuwbouw op zetten.
+nl_audio/01186.wav|De jongeren hadden de grafsteen gebroken en werden beschuldigd van grafschennis.
+nl_audio/01187.wav|Ze komt steeds welgemanierd over.
+nl_audio/01188.wav|Dat weten wij nu niet meer.
+nl_audio/01189.wav|We zijn redelijk tevreden over de richtlijn zoals die er nu ligt.
+nl_audio/01190.wav|De vragen gaan eerder over kromme komkommers, pruimtabak en andere alledaagse zaken.
+nl_audio/01191.wav|De bokser lag knock-out op de mat.
+nl_audio/01192.wav|En nu is onze situatie nog lastiger geworden.
+nl_audio/01193.wav|Het omvat ook het externe aspect van het terrorisme.
+nl_audio/01194.wav|Mijn stickercollectie zit in de kaft.
+nl_audio/01195.wav|Als dat zo is, wat krijgt de consument daar dan voor terug?
+nl_audio/01196.wav|Dit gaat ten koste van kinderen, ouderen en gehandicapten.
+nl_audio/01197.wav|Volgens de legende heeft Isaac Newton de zwaartekracht ontdekt toen hij een appel op zijn hoofd kreeg.
+nl_audio/01198.wav|Ik heb een gsm van het merk Nokia.
+nl_audio/01199.wav|Ik voelde een schok in mijn elleboog toen ik de hoek van de tafel raakte.
+nl_audio/01200.wav|Maart heeft eenendertig dagen.
+nl_audio/01201.wav|Voor het eerst zijn ook sociale aspecten opgenomen.
+nl_audio/01202.wav|Dit is vreselijk en we moeten het veroordelen.
+nl_audio/01203.wav|Wij vinden echter dat deze stappen veel groter hadden kunnen zijn.
+nl_audio/01204.wav|Is het mogelijk om hier in een rechtszaak een beroep op te doen?
+nl_audio/01205.wav|Ik zie deze hele onderneming trouwens niet als een wedstrijd.
+nl_audio/01206.wav|Een concrete daad: ik aanvaard het appel van de paus van vanmorgen.
+nl_audio/01207.wav|Commissaris, hartelijk dank dat u aan dit debat deelneemt.
+nl_audio/01208.wav|Met een virtualrealitybril kan je in een virtualrealityomgeving avonturen beleven.
+nl_audio/01209.wav|Kan je deze zin heel langzaam uitspreken?
+nl_audio/01210.wav|Hij scoorde zoveel dat de rest geen kans meer maakte.
+nl_audio/01211.wav|Pff, jongens en hun haantjesgedrag.
+nl_audio/01212.wav|Op die discussie is het stukgelopen.
+nl_audio/01213.wav|Over abortus zijn de meningen verdeelt.
+nl_audio/01214.wav|De loodgieter heeft het probleem kunnen oplossen maar het heeft hun toch een flinke duit gekost.
+nl_audio/01215.wav|We gaan niet weer een inhoudelijk debat beginnen over deze kwestie.
+nl_audio/01216.wav|Ik zou met name de volgende elementen willen onderstrepen.
+nl_audio/01217.wav|Het is een sprong voorwaarts, een nieuwe hoop.
+nl_audio/01218.wav|Wij kunnen onze aandacht nu richten op ons gemeenschappelijke, culturele erfgoed.
+nl_audio/01219.wav|Het toepassingsgebied van de regeling werd nauwkeuriger afgebakend.
+nl_audio/01220.wav|Het gaat gewoon om een fundamentele eis van democratie.
+nl_audio/01221.wav|Vanessa kan haar fout niet ongedaan maken.
+nl_audio/01222.wav|Daardoor brengt de junta de levens van tienduizenden mensen in gevaar.
+nl_audio/01223.wav|Dit wordt zeer goed geregeld in de richtlijn.
+nl_audio/01224.wav|De commissaris heeft gelijk.
+nl_audio/01225.wav|Wij moeten er eens heel goed over nadenken welke richting we nu moeten inslaan.
+nl_audio/01226.wav|Over de inhoud wil ik nog het volgende zeggen.
+nl_audio/01227.wav|Immers, de grensoverschrijdende problematiek vraagt om een grensoverschrijdend antwoord.
+nl_audio/01228.wav|Hoe kunnen liberale regeringspartijen dit steunen?
+nl_audio/01229.wav|Alle leerlingen scoorden goed op de toets.
+nl_audio/01230.wav|Europa en Azië zijn twee verschillende werelddelen.
+nl_audio/01231.wav|De tuinvrouw maait het gras.
+nl_audio/01232.wav|Het resultaat ligt nu op tafel.
+nl_audio/01233.wav|Zo dichtbij, maar toch zover weg.
+nl_audio/01234.wav|En dat is iets heel anders.
+nl_audio/01235.wav|We moeten ons maar neerleggen bij je ontslag.
+nl_audio/01236.wav|Vaccinaties zijn nodig om besmettelijke ziektes te voorkomen.
+nl_audio/01237.wav|We delen in de blijdschap over deze gebeurtenis.
+nl_audio/01238.wav|Daarom vond men het gerechtvaardigd dat zijn immuniteit zou worden opgeheven.
+nl_audio/01239.wav|Ik wil persoonlijk twee aanbevelingen doen.
+nl_audio/01240.wav|Vanaf hier is het altijd rechtdoor.
+nl_audio/01241.wav|Er zijn goede investeringen gedaan, maar het niveau is te laag.
+nl_audio/01242.wav|De server was uitgevallen en niemand kon werken.
+nl_audio/01243.wav|Victor smeet de gesneden stukken fruit in de mixer.
+nl_audio/01244.wav|Meer integratie betekent steevast dat er meer wordt ingegrepen.
+nl_audio/01245.wav|Ten derde moeten de voorlichtingscampagne en de communicatiestrategie van permanente aard zijn.
+nl_audio/01246.wav|Met een lucifer stak hij de kaars in het lampionnetje aan.
+nl_audio/01247.wav|Er moet hier echter niet met twee maten worden gemeten.
+nl_audio/01248.wav|Ondanks de toenemende sociale kosten, moeten wij economische zekerheid voor ouderen waarborgen.
+nl_audio/01249.wav|Mammoeten leefden in de toendra in Siberië.
+nl_audio/01250.wav|In dat verband wil ik twee punten aan de orde stellen.
+nl_audio/01251.wav|Het is zelfs meer dan dat: het is de erkenning van kennis.
+nl_audio/01252.wav|Hoe weet ik zeker dat je mijn naam uit het verhaal houdt?
+nl_audio/01253.wav|Desalniettemin zijn wij van mening dat de voorstellen op drie punten tekortschieten.
+nl_audio/01254.wav|We hebben daar nogal wat discussie over gehad.
+nl_audio/01255.wav|Deze tekst noemt zowel het dossier kernwapens als de situatie van de mensenrechten.
+nl_audio/01256.wav|Ik denk dat enige voortvarendheid, dat enig engagement hier echt gepast is.
+nl_audio/01257.wav|Veiligheid is de achilleshiel van onze computersystemen.
+nl_audio/01258.wav|Het containerschip lag aangemeerd in de haven.
+nl_audio/01259.wav|Als parlementair journalist en als afgevaardigde dank ik u dan ook voor uw bijdrage.
+nl_audio/01260.wav|Hij heeft mij gevraagd namens hem het woord te voeren.
+nl_audio/01261.wav|De fiscus ziet erop toe dat de belastingen juist betaald worden.
+nl_audio/01262.wav|De bestaande beschermingsregels zijn toereikend.
+nl_audio/01263.wav|Dat hebben we gedaan en we hebben daarmee internationaal zelfs zeer veel bijval geoogst.
+nl_audio/01264.wav|Dit is des te belangrijker vanwege de huidige economische crisis.
+nl_audio/01265.wav|Veel vrouwen dragen de lichamelijke en geestelijke littekens van de oorlog met zich mee.
+nl_audio/01266.wav|Zij dienen dus naar behoren ontvangen te worden.
+nl_audio/01267.wav|Daarover gaat het probleem niet.
+nl_audio/01268.wav|De aflossing hiervan betekent dat in veel landen elke ontwikkeling bij voorbaat gefrustreerd wordt.
+nl_audio/01269.wav|Je moet de tv aanzetten.
+nl_audio/01270.wav|Ik hou niet van dat soort puberaal gedrag.
+nl_audio/01271.wav|Het is een eerste goede stap in de richting.
+nl_audio/01272.wav|Dit is in feite niet iets waar u zich zorgen over hoeft te maken.
+nl_audio/01273.wav|Kan je mij de Nutella even aangeven?
+nl_audio/01274.wav|Haar moed moet beloond worden.
+nl_audio/01275.wav|De huidige toestand is vooral verontrustend voor de ontwikkelingslanden.
+nl_audio/01276.wav|Er is bijvoorbeeld geen plaats voor lidstaten die de euro niet hebben.
+nl_audio/01277.wav|Wat is je gebruikersnaam en wachtwoord?
+nl_audio/01278.wav|Spreken is zilver, zwijgen is goud.
+nl_audio/01279.wav|Maar ook op dit gebied staat of valt alles met de financiering.
+nl_audio/01280.wav|Ik hoop dat het die naam waardig zal zijn.
+nl_audio/01281.wav|Ik heb een waterleiding geraakt bij het boren van dat gat.
+nl_audio/01282.wav|Wilt u ons eigenlijk voor de gek houden met dergelijke stukken in het publicatieblad?
+nl_audio/01283.wav|Dank aan alle medewerkers en dank aan alle tolken, ongeacht hun leeftijd.
+nl_audio/01284.wav|Tijdens deze periode hebben wij volledig aan onze politieke verplichtingen voldaan.
+nl_audio/01285.wav|Het behoeft geen betoog dat dit dus onrechtmatig is.
+nl_audio/01286.wav|Het is een wezenlijk bestanddeel van ons buitenlands beleid.
+nl_audio/01287.wav|Wat is de massa van Mars?
+nl_audio/01288.wav|Ze voelden aan dat de verkoper ze voorgelogen had.
+nl_audio/01289.wav|Het voorzorgsbeginsel in geen overbodige luxe, het is een absolute noodzaak.
+nl_audio/01290.wav|De schaduw van het verleden lijkt ons weer in te halen.
+nl_audio/01291.wav|Ik weet dat u dit ook vindt, eerste minister.
+nl_audio/01292.wav|Bovendien neemt de grensoverschrijdende activiteit niet alleen op economisch gebied toe.
+nl_audio/01293.wav|De leerkracht maande hen aan om stil te zijn.
+nl_audio/01294.wav|De keel van de patiënt voelde opgezwollen.
+nl_audio/01295.wav|De oma van mijn vriendin is nogal traditioneel.
+nl_audio/01296.wav|De deksel van de kist had een sterk slot, maar we konden de scharnieren snel forceren.
+nl_audio/01297.wav|Dat is de prijs die de vrouwen betalen.
+nl_audio/01298.wav|Ik wil het hebben over iets wat daarstraks is gebeurd.
+nl_audio/01299.wav|Wij danken daarom de rapporteur.
+nl_audio/01300.wav|Mijn Noors is niet meer zo goed als het ooit geweest is.
+nl_audio/01301.wav|Zullen we in de Dordogne gaan wandelen?
+nl_audio/01302.wav|Zij zetelt in het parlement.
+nl_audio/01303.wav|Verschillende sprekers hebben aangegeven welke weg moet worden gevolgd.
+nl_audio/01304.wav|Marteling is het trefwoord in deze problematiek.
+nl_audio/01305.wav|Aluminium moet je recycleren.
+nl_audio/01306.wav|We gaan niet hier en nu een besluit ter zake nemen.
+nl_audio/01307.wav|De euro heeft ons beschermd.
+nl_audio/01308.wav|Ze deed de waardevolle spullen in een doek om ze te beschermen.
+nl_audio/01309.wav|Er zijn inderdaad veel onnozele belemmeringen, en dat zijn diegene die we moeten afschaffen.
+nl_audio/01310.wav|De vloer is antislip.
+nl_audio/01311.wav|De romp had de bodem geraakt.
+nl_audio/01312.wav|De frisdrank was vooral populair bij jongeren.
+nl_audio/01313.wav|Er waren opnieuw problemen met de vrachtwagen die de werf niet kon binnenrijden.
+nl_audio/01314.wav|Op een jaar tijd heeft hij een roman geschreven.
+nl_audio/01315.wav|De liquidatie van politieke dissidenten en de standrechtelijke executies gaan gewoon door.
+nl_audio/01316.wav|Genk is onder andere bekend van de mijnen.
+nl_audio/01317.wav|Tot slot wil ik de rapporteur bedanken, die uitstekend werk heeft verricht.
+nl_audio/01318.wav|U hoeft niet thuis te blijven; de electricien heeft toegang via de algemene sleutel.
+nl_audio/01319.wav|Fidel Castro was lang aan de macht in Cuba.
+nl_audio/01320.wav|De melding dat iemand was opgesloten kwam binnen om negen :nul nul  e n is direct opgepakt.
+nl_audio/01321.wav|Tot slot: we moeten actie ondernemen.
+nl_audio/01322.wav|Indien het toilet blijft overlopen, komt het ontstoppingsbedrijf met spoed langs.
+nl_audio/01323.wav|Het liftbedrijf heeft een technisch probleem vastgesteld dat hersteld moet worden.
+nl_audio/01324.wav|Werkdagen worden woelig wanneer waterwerken wachten op werkvolk.
+nl_audio/01325.wav|Er zijn mogelijkheden om de woning aan te passen aan uw situatie, indien nodig.
+nl_audio/01326.wav|Het liftbedrijf liet lastige liften langzaam leeg lopen, lang voor de lunchpauze.
+nl_audio/01327.wav|Als de verlichting blijft knipperen, is het verstandig dat de electricien dit bekijkt.
+nl_audio/01328.wav|de volgende werkdag
+nl_audio/01329.wav|We begrijpen dat u zich opgesloten voelde in het liftbedrijf en we willen u verzekeren dat we direct contact opnemen met de monteur.
+nl_audio/01330.wav|Het ontstoppingsbedrijf komt binnen vier uur langs, en we verzoeken u vriendelijk om alvast de ruimte rondom het toilet vrij te maken voor directe toegang.
+nl_audio/01331.wav|op welke school heb jij gezeten
+nl_audio/01332.wav|Wij hebben het defect doorgestuurd naar de juiste afdeling.
+nl_audio/01333.wav|De lift blijkt kapot vanwege een storing in het besturingssysteem.
+nl_audio/01334.wav|Daarom heeft onze fractie zich overwegend van stemming onthouden of tegen het verslag gestemd.
+nl_audio/01335.wav|We mogen niemand in de steek laten.
+nl_audio/01336.wav|Mocht het probleem met het toilet zich herhalen, laat het ons dan meteen weten.
+nl_audio/01337.wav|Momenteel zitten we in een economische recessie.
+nl_audio/01338.wav|Electriciens elimineren elegant en exact elke ernstig geëscaleerde storing.
+nl_audio/01339.wav|Dat is namelijk uitermate belangrijk.
+nl_audio/01340.wav|Een van onze monteurs is ingepland om het defect te onderzoeken.
+nl_audio/01341.wav|douche
+nl_audio/01342.wav|U kunt via de website van Staedion ook digitaal een storing melden.
+nl_audio/01343.wav|liftbedrijf
+nl_audio/01344.wav|We streven ernaar om binnen één werkdag te reageren op urgente problemen.
+nl_audio/01345.wav|De monteur constateerde een probleem met het mechanisme van de lift.
+nl_audio/01346.wav|Als het toilet blijft doorlopen, adviseren we de hoofdkraan dicht te draaien.
+nl_audio/01347.wav|We plannen een afspraak in voor het vernieuwen van de kitranden in uw woning.
+nl_audio/01348.wav|wat een chaos op de weg vandaag
+nl_audio/01349.wav|Ons ontstoppingsbedrijf opent ondergrondse obstructies op onvoorstelbaar onhandige ochtenden.
+nl_audio/01350.wav|chaos
+nl_audio/01351.wav|Het team herkende dat de kitranden in meerdere woningen beschadigd zijn, en heeft hierop actie ondernomen.
+nl_audio/01352.wav|Het liftbedrijf liet lastige liften langzaam leeg lopen, lang voor de lunchpauze.
+nl_audio/01353.wav|ik heb psychologie gestudeerd
+nl_audio/01354.wav|Daarom heb ik tegen dit voorstel gestemd.
+nl_audio/01355.wav|Als u zich ooit opgesloten voelt, druk dan direct op de alarmknop in de lift.
+nl_audio/01356.wav|De kapotte douchekop wordt deze week nog vervangen.
+nl_audio/01357.wav|Omdat meerdere bewoners zich al eerder opgesloten voelden in de lift, hebben we samen met het liftbedrijf onderzocht welke mogelijkheden er zijn voor structureel onderhoud aan het defecte mechanisme.
+nl_audio/01358.wav|douche
+nl_audio/01359.wav|We begrijpen dat het erg frustrerend is als uw tag onverwachts niet werkt bij de algemene voordeur, zeker als u haast heeft — daarom sturen we met spoed een technicus langs én brengen u een tijdelijke tag persoonlijk langs indien nodig.
+nl_audio/01360.wav|U heeft contact met Staedion, hoe kunnen wij u helpen?
+nl_audio/01361.wav|de volgende werkdag
+nl_audio/01362.wav|Kan je me twee sneden brood geven?
+nl_audio/01363.wav|Ik zou er hier een paar van willen uitlichten.
+nl_audio/01364.wav|Moeilijke mechanisme-managers manipuleren met mechanische maatwerk-magie.
+nl_audio/01365.wav|Waarom zijn er al die massagraven?
+nl_audio/01366.wav|Werkdagen worden woelig wanneer waterwerken wachten op werkvolk.
+nl_audio/01367.wav|chassis
+nl_audio/01368.wav|wat is dit chassis roestig
+nl_audio/01369.wav|Voor dit type schade zijn er beperkte mogelijkheden binnen de huurovereenkomst.
+nl_audio/01370.wav|Onze electricien zal op de eerstvolgende werkdag bij u langskomen om het probleem met de schakeling te onderzoeken en indien nodig ook de beschadigde onderdelen te vervangen.
+nl_audio/01371.wav|Zij vrezen dat deze openbare middelen niet goed worden besteed.
+nl_audio/01372.wav|Ik wil alleen nog iets zeggen over de relaties die we onderhouden.
+nl_audio/01373.wav|Ik moet nog even opmerken dat we genoten hebben van het concert.
+nl_audio/01374.wav|Onze vakman beoordeelt eerst de staat van de huidige kitranden.
+nl_audio/01375.wav|We bekijken samen met u de mogelijkheden voor herstel.
+nl_audio/01376.wav|wat is dit chassis roestig
+nl_audio/01377.wav|Door slijtage aan het mechanisme ontstaat er vertraging bij het openen van de deuren.
+nl_audio/01378.wav|Waar ligt het voer voor de hamsters?
+nl_audio/01379.wav|Indien u last heeft van vochtproblemen, controleer dan altijd de kitranden.
+nl_audio/01380.wav|Aangezien het defect invloed heeft op meerdere bewoners, zullen wij het proces versnellen door een spoedaanvraag te doen bij de onderhoudspartij die verantwoordelijk is voor deze installaties.
+nl_audio/01381.wav|Wanneer u merkt dat de kitranden in uw badkamer loslaten, en u vermoedt lekkage, laat dit dan direct weten aan Staedion, zodat we nog dezelfde werkdag een herstelverzoek kunnen indienen.
+nl_audio/01382.wav|Maar we moeten ons niet door ons enthousiasme laten meeslepen.
+nl_audio/01383.wav|Goedemiddag, u spreekt met het klantcontact van Staedion — hoe kunnen wij u helpen met het defect aan het mechanisme van de lift?
+nl_audio/01384.wav|We zullen ons best doen om dit te bereiken.
+nl_audio/01385.wav|Dan de financiële zekerheden.
+nl_audio/01386.wav|ben je de chauffeur
+nl_audio/01387.wav|Het is essentieel dat hier een richtlijn over komt.
+nl_audio/01388.wav|Staedion stuurt storingsspecialisten steeds sneller sinds structurele storingen stegen.
+nl_audio/01389.wav|wasmachine
+nl_audio/01390.wav|En dat terwijl deze soort uitstekend geschikt is voor consumptie.
+nl_audio/01391.wav|Het tweede principe betreft de speciale aard van de missies.
+nl_audio/01392.wav|chronisch
+nl_audio/01393.wav|woon je in een chalet of een gewoon huis
+nl_audio/01394.wav|Het toilet is mogelijk verstopt door een defect in de hoofdleiding.
+nl_audio/01395.wav|Leidt deze overeenkomst tot meer efficiëntie in de strijd tegen de internationale misdaad?
+nl_audio/01396.wav|chalet
+nl_audio/01397.wav|Ik weet dat dit een scenario is dat de commissaris graag zou vermijden.
+nl_audio/01398.wav|Als u zich ooit opgesloten voelt, druk dan direct op de alarmknop in de lift.
+nl_audio/01399.wav|Het is van groot belang dat de kinderwet niet overhaast wordt ingevoerd.
+nl_audio/01400.wav|De electricien heeft geconstateerd dat de zekeringkast vervangen moet worden.
+nl_audio/01401.wav|Het was koud in de berghut en de twee dekens waren nauwelijks voldoende om ons warm te houden.
+nl_audio/01402.wav|De kitranden in uw badkamer zijn inderdaad aan vervanging toe; we sturen een specialist langs om dit netjes voor u op te lossen.
+nl_audio/01403.wav|Een monteur is ingepland om het toilet te repareren.
+nl_audio/01404.wav|We begrijpen dat u zich opgesloten voelde in het liftbedrijf en we willen u verzekeren dat we direct contact opnemen met de monteur.
+nl_audio/01405.wav|Opgesloten in de oude open lift, overstemt oversturing het stiltegeluid.
+nl_audio/01406.wav|U hoeft niets voor te schieten; Staedion werkt met dit ontstoppingsbedrijf samen.
+nl_audio/01407.wav|ben je de chauffeur
+nl_audio/01408.wav|Krappe kitranden krijgen krassen, krullen krom en kruipen klein weg.
+nl_audio/01409.wav|De kitranden in uw badkamer zijn inderdaad aan vervanging toe; we sturen een specialist langs om dit netjes voor u op te lossen.
+nl_audio/01410.wav|Limburg ligt in het noordoosten van het land.
+nl_audio/01411.wav|Er is een financiële crisis geweest, aardbevingen, droogte en een terroristische aanslag.
+nl_audio/01412.wav|Onze electricien controleert of er sprake is van kortsluiting.
+nl_audio/01413.wav|We schakelen direct een ontstoppingsbedrijf in bij ernstige verstoppingen.
+nl_audio/01414.wav|De mogelijkheden voor het vervangen van het mechanisme zijn besproken met Staedion.
+nl_audio/01415.wav|Uw melding is ontvangen en wordt binnen één werkdag opgepakt.
+nl_audio/01416.wav|We hebben de beoogde verdubbeling echter bijlange na niet gehaald.
+nl_audio/01417.wav|Dit type mechanisme is verouderd en wordt daarom volledig vervangen.
+nl_audio/01418.wav|Het probleem is alleen dat die auto's onbetaalbaar zijn.
+nl_audio/01419.wav|We begrijpen dat het erg vervelend is om opgesloten te zitten in de lift.
+nl_audio/01420.wav|Uw melding is ontvangen en wordt binnen één werkdag opgepakt.
+nl_audio/01421.wav|Slechte kitranden kunnen lekkages veroorzaken, dus we pakken dit snel op.
+nl_audio/01422.wav|Wie het laatst lacht, lacht het best.
+nl_audio/01423.wav|Heb je gel in je haren gedaan?
+nl_audio/01424.wav|Wat ontbrak is de wettelijke noodzaak.
+nl_audio/01425.wav|Houd er rekening mee dat reparaties alleen op een werkdag worden ingepland.
+nl_audio/01426.wav|Een monteur is ingepland om het toilet te repareren.
+nl_audio/01427.wav|De monteur constateerde een probleem met het mechanisme van de lift.
+nl_audio/01428.wav|chaos
+nl_audio/01429.wav|Na inspectie bleek het ontstoppingsbedrijf een breuk in de leiding te constateren.
+nl_audio/01430.wav|We hebben een tag geregistreerd aan de hoofdingang van het gebouw die niet correct werkt; een monteur komt dit controleren op de eerstvolgende werkdag.
+nl_audio/01431.wav|veel voorkomende keuzes zijn bijvoorbeeld de toiletbril kraan of douchekop
+nl_audio/01432.wav|De melding betreft een defect aan de voordeur van het complex.
+nl_audio/01433.wav|Het ontstoppingsbedrijf is onderweg om de verstopte afvoer te verhelpen.
+nl_audio/01434.wav|Uw melding is ontvangen en wordt binnen één werkdag opgepakt.
+nl_audio/01435.wav|Meer flexibiliteit is schadelijk voor de bestanden.
+nl_audio/01436.wav|Wij herkennen het probleem dat u beschrijft en nemen het direct in behandeling.
+nl_audio/01437.wav|De mogelijkheden voor het vervangen van het mechanisme zijn besproken met Staedion.
+nl_audio/01438.wav|Wij werken samen met een gecertificeerd liftbedrijf voor spoedgevallen.
+nl_audio/01439.wav|Tag-toegang toont technische trucjes: tik, toets, toetsfout, terug naar technische toetscontrole.
+nl_audio/01440.wav|Het liftbedrijf heeft een technisch probleem vastgesteld dat hersteld moet worden.
+nl_audio/01441.wav|Er zijn ernstige verschillen.
+nl_audio/01442.wav|Het defect lijkt te zitten in de elektrische aansluiting van de verlichting.
+nl_audio/01443.wav|Er zijn verschillende mogelijkheden om dit probleem op te lossen, waaronder volledige vervanging, tijdelijke reparatie of een structurele aanpassing afhankelijk van uw voorkeur en de urgentie.
+nl_audio/01444.wav|Uw melding is ontvangen en wordt binnen één werkdag opgepakt.
+nl_audio/01445.wav|hoe werkt het mechanisme in deze klok
+nl_audio/01446.wav|Het draagt ook bij aan de bescherming van het landschap.
+nl_audio/01447.wav|Toilet-tijd tikt traag terwijl technici trappen tot de trompet klinkt.
+nl_audio/01448.wav|Aangifte aanvragen als aanvaller aanvalt, altijd acuut acteren!
+nl_audio/01449.wav|Wij herkennen het probleem dat u beschrijft en nemen het direct in behandeling.
+nl_audio/01450.wav|De melding over het verstopte toilet is bij ons binnengekomen.
+nl_audio/01451.wav|Impliciet verklaart deze stellingname het resultaat van marktwerking als de enig juiste uitkomst.
+nl_audio/01452.wav|Voor jullie zal ik een Griekse salade met feta maken.
+nl_audio/01453.wav|Hiermee effenen we ook de weg voor meer keuzevrijheid voor de consument.
+nl_audio/01454.wav|een verstopt toilet
+nl_audio/01455.wav|De laptop lag op mijn schoot.
+nl_audio/01456.wav|gaat het om een lekkage of een verstopping
+nl_audio/01457.wav|chaos
+nl_audio/01458.wav|Zij moet de rechtskracht van deze rechten waarover zij spreekt nader kunnen omschrijven.
+nl_audio/01459.wav|een mail te sturen
+nl_audio/01460.wav|De melding betreft een defect aan de voordeur van het complex.
+nl_audio/01461.wav|Tag-toegang toont technische trucjes: tik, toets, toetsfout, terug naar technische toetscontrole.
+nl_audio/01462.wav|We herkennen de situatie die u beschrijft en begrijpen dat het frustrerend is om herhaaldelijk met hetzelfde probleem te maken te hebben zonder structurele oplossing.
+nl_audio/01463.wav|Heb je de nieuwe film van Spielberg al gezien?
+nl_audio/01464.wav|De lichtjes gingen automatisch aan toen het donker werd.
+nl_audio/01465.wav|Om te overleven zijn ze serieuze kostenbesparingen aan het doorvoeren.
+nl_audio/01466.wav|En dat is een rechtstreeks gevolg van de slechte onderhandelingen over de financiële vooruitzichten.
+nl_audio/01467.wav|We herkenden direct dat het probleem aan de lift te maken had met een defect mechanisme, en hoewel dit buiten onze standaardservice valt, zoeken we samen met Staedion naar een passende oplossing zodat u niet opnieuw opgesloten raakt.
+nl_audio/01468.wav|Dat u zich opgesloten voelde in de lift is absoluut onacceptabel en we hebben het incident doorgegeven aan onze storingsdienst, zodat herhaling wordt voorkomen door technische inspectie.
+nl_audio/01469.wav|Staedion staat stand-by bij storingen, stelt snel specialisten en stuurt spoedig service.
+nl_audio/01470.wav|U ontvangt een bevestiging zodra het kapotte onderdeel besteld is.
+nl_audio/01471.wav|Je moet geen angst hebben voor spinnen.
+nl_audio/01472.wav|De organisatie van het evenement is chaotisch verlopen.
+nl_audio/01473.wav|Uw melding is ontvangen en wordt binnen één werkdag opgepakt.
+nl_audio/01474.wav|Hoeveel onderzoek er wordt gedaan naar de luchtkwaliteit is onbekend.
+nl_audio/01475.wav|Het liftbedrijf is inmiddels op de hoogte gesteld van de storing en zal vandaag nog een monteur sturen om het defecte mechanisme na te kijken en, indien nodig, direct te vervangen.
+nl_audio/01476.wav|U kunt via de website van Staedion ook digitaal een storing melden.
+nl_audio/01477.wav|toilet
+nl_audio/01478.wav|Mijn baas stond op mijn vingers te kijken.
+nl_audio/01479.wav|chagrijnig
+nl_audio/01480.wav|De monteur constateerde een probleem met het mechanisme van de lift.
+nl_audio/01481.wav|Hoeveel procedures moeten we aanspannen?
+nl_audio/01482.wav|Mijn verontschuldiging, ik dacht dat jullie al open waren.
+nl_audio/01483.wav|Maar dat rechtvaardigt nog geen schoolprogramma's voor fruit en melk.
+nl_audio/01484.wav|We herkennen deze situatie van eerdere meldingen in dit gebouw.
+nl_audio/01485.wav|Zij heeft nooit herexamens gehad.
+nl_audio/01486.wav|is er een gevaarlijke situatie ontstaan
+nl_audio/01487.wav|liftbedrijf
+nl_audio/01488.wav|Wij moeten het aantal initiatieven terugbrengen: er zullen er nog maar drie overblijven.
+nl_audio/01489.wav|Dat zijn initiatieven die echt iets kunnen doen aan de klimaatverandering.
+nl_audio/01490.wav|Sta mij niettemin enkele kritische kanttekeningen toe.
+nl_audio/01491.wav|Het gaat om investeringen en niet enkel om ontwikkelingshulp.
+nl_audio/01492.wav|Zonder bedrijven zouden er helemaal geen werknemers zijn.
+nl_audio/01493.wav|We hebben direct contact opgenomen met het liftbedrijf om de storing te verhelpen.
+nl_audio/01494.wav|Het ontstoppingsbedrijf zal u vooraf bellen voor een exacte aankomsttijd.
+nl_audio/01495.wav|Als uw tag het niet doet bij de lift, kan dat liggen aan een verouderde codering of een storing in het centrale systeem — wij regelen graag een nieuwe voor u.
+nl_audio/01496.wav|woon je in een chalet of een gewoon huis
+nl_audio/01497.wav|dit antwoord herken ik niet
+nl_audio/01498.wav|Voorts gaat de deelneming van werknemers en hun vertegenwoordigers mijn fractie zeer ter harte.
+nl_audio/01499.wav|Na inspectie bleek dat de kitranden in zowel de badkamer als de keuken versleten zijn, wat op termijn lekkages kan veroorzaken, dus we nemen proactieve stappen om dit te verhelpen.
+nl_audio/01500.wav|Zonder aangifte kunnen wij de schade niet officieel registreren.
+nl_audio/01501.wav|Als u op een specifieke werkdag niet thuis bent, laat het ons weten.
+nl_audio/01502.wav|Als het defect leidt tot gevaarlijke situaties, verzoeken we u dat direct te melden.
+nl_audio/01503.wav|Hoe laat begin je 's ochtends te werken?
+nl_audio/01504.wav|In dit geval betrof het een defect mechanisme in de deuropener, dat inmiddels is hersteld.
+nl_audio/01505.wav|mail
+nl_audio/01506.wav|Wij verzoeken u geen chemische middelen te gebruiken in het toilet.
+nl_audio/01507.wav|De kapotte douchekop wordt deze week nog vervangen.
+nl_audio/01508.wav|Ik ben benaderd door veel dierenwelzijnsorganisaties die hier zeer ongerust over zijn.
+nl_audio/01509.wav|Dat moet voor u toch een flink hart onder de riem zijn.
+nl_audio/01510.wav|Hoe komen deze ziekten binnen?
+nl_audio/01511.wav|Het ontstoppingsbedrijf is onderweg om de verstopte afvoer te verhelpen.
+nl_audio/01512.wav|Met Pasen steekt de priester de paaskaars aan.
+nl_audio/01513.wav|Volgens mij gaat het hier om een vergissing.
+nl_audio/01514.wav|een gevaarlijke situatie
+nl_audio/01515.wav|Het is goed dat u het probleem vroegtijdig herkent; zo kunnen we erger voorkomen.
+nl_audio/01516.wav|U ontvangt van ons een bevestiging zodra het liftbedrijf langskomt om de oorzaak van het defect te achterhalen, want we herkennen dat bewoners zich hierdoor regelmatig opgesloten voelen.
+nl_audio/01517.wav|De situatie van homoseksuelen is overal in de wereld problematisch.
+nl_audio/01518.wav|In de inleiding van het boek bedankte ze haar man.
+nl_audio/01519.wav|Herken jij het herhaalde herrie-geluid van het half-werkende hefmechanisme?
+nl_audio/01520.wav|Twaalf tags tikken traag tegen te zware toegangsplaten terwijl technici tellen tot twee tot tien.
+nl_audio/01521.wav|Bij agressie of bedreiging tegen medewerkers vragen wij direct aangifte te doen.
+nl_audio/01522.wav|Als u zich ooit opgesloten voelt, druk dan direct op de alarmknop in de lift.
+nl_audio/01523.wav|Indien het toilet blijft overlopen, komt het ontstoppingsbedrijf met spoed langs.
+nl_audio/01524.wav|waarom ben je zo chagrijnig
+nl_audio/01525.wav|woon je in een chalet of een gewoon huis
+nl_audio/01526.wav|Wie zal dit uiterst juiste beginsel echter interpreteren en wie zal dit toepassen?
+nl_audio/01527.wav|Indien u last heeft van vochtproblemen, controleer dan altijd de kitranden.
+nl_audio/01528.wav|Opgesloten in de oude open lift, overstemt oversturing het stiltegeluid.
+nl_audio/01529.wav|school
+nl_audio/01530.wav|een keuze is wasmachine of douche
+nl_audio/01531.wav|dit antwoord herken ik niet
+nl_audio/01532.wav|We verlangen heel wat van onze nieuwe medewerkers, maar ze krijgen er ook veel voor terug.
+nl_audio/01533.wav|Na inspectie bleek dat de kitranden in zowel de badkamer als de keuken versleten zijn, wat op termijn lekkages kan veroorzaken, dus we nemen proactieve stappen om dit te verhelpen.
+nl_audio/01534.wav|Heeft Marc zijn bachelor al afgemaakt?
+nl_audio/01535.wav|Hij is niets minder dan een dictator, omdat hij een afkeer heeft van pluralisme.
+nl_audio/01536.wav|Niet alleen het getal onderaan, maar met name ook de berekeningsgrondslag is belangrijk.
+nl_audio/01537.wav|De electricien herkende de fout in de bedrading meteen.
+nl_audio/01538.wav|Het derde punt heeft betrekking op de islam.
+nl_audio/01539.wav|Het defect lijkt te zitten in de elektrische aansluiting van de verlichting.
+nl_audio/01540.wav|Twaalf tags tikken traag tegen te zware toegangsplaten terwijl technici tellen tot twee tot tien.
+nl_audio/01541.wav|Staedion raadt aan om bij schade door vandalisme altijd aangifte te doen, zodat wij niet alleen een herstelproces kunnen starten, maar ook kunnen kijken naar technische aanpassingen zoals een sterker mechanisme.
+nl_audio/01542.wav|Ons ontstoppingsbedrijf opent ondergrondse obstructies op onvoorstelbaar onhandige ochtenden.
+nl_audio/01543.wav|Voor inbraakschade vragen we altijd om een kopie van de aangifte.
+nl_audio/01544.wav|Er zijn mogelijkheden om de woning aan te passen aan uw situatie, indien nodig.
+nl_audio/01545.wav|Het ontstoppingsbedrijf is onderweg om de verstopte afvoer te verhelpen.
+nl_audio/01546.wav|De draad van de stofzuiger zat in de knoop.
+nl_audio/01547.wav|Beter laat dan nooit.
+nl_audio/01548.wav|De lift liep luidruchtig langs lekkende leidingen en loslatend laminaat.
+nl_audio/01549.wav|In het appartement op de achtste etage at Annemarie avocado’s aan een antieke art-deco eettafel.
+nl_audio/01550.wav|werkdag
+nl_audio/01551.wav|Twee twintigers trokken tachtig tegels tegen de tijd dat Theo de toilettegels telde.
+nl_audio/01552.wav|De lift liep luidruchtig langs lekkende leidingen en loslatend laminaat.
+nl_audio/01553.wav|In de kitchenette kookte Karin knoflook-kardemom-kip in koperen ketels.
+nl_audio/01554.wav|defect
+nl_audio/01555.wav|De deftige directeur demonstreerde de douchedeur die dichtdeed zonder druppelverlies.
+nl_audio/01556.wav|electricien
+nl_audio/01557.wav|De electricien was zijn gereedschap vergeten.
+nl_audio/01558.wav|toilet
+nl_audio/01559.wav|Bij het bidet in de badkamer babbelde Babette bescheiden over bubbels en badzout.
+nl_audio/01560.wav|De douche werkt niet goed, het water blijft ijskoud.
+nl_audio/01561.wav|tag
+nl_audio/01562.wav|elektra
+nl_audio/01563.wav|tag
+nl_audio/01564.wav|In de foyer viel de fauteuil fluks om vanwege een fout geplaatste vloertegel.
+nl_audio/01565.wav|Ik zet mijn schoenen altijd in de portiek, naast de voordeur.
+nl_audio/01566.wav|Twee twintigers trokken tachtig tegels tegen de tijd dat Theo de toilettegels telde.
+nl_audio/01567.wav|ontstoppingsbedrijf
+nl_audio/01568.wav|aannemer
+nl_audio/01569.wav|ontstoppingsbedrijf
+nl_audio/01570.wav|Twee twintigers trokken tachtig tegels tegen de tijd dat Theo de toilettegels telde.
+nl_audio/01571.wav|opnieuw te bellen of een mail te sturen
+nl_audio/01572.wav|mogelijkheden
+nl_audio/01573.wav|wat is er verstopt
+nl_audio/01574.wav|Dit appartement heeft drie ruime etages en een dakterras.
+nl_audio/01575.wav|De toiletruimte is apart van de badkamer geplaatst.
+nl_audio/01576.wav|De portier poetste professioneel het portiek, precies tot aan het portret van de postbode.
+nl_audio/01577.wav|De toiletruimte is apart van de badkamer geplaatst.
+nl_audio/01578.wav|Het toilet spoelt niet goed door, dat moeten we laten nakijken.
+nl_audio/01579.wav|De deftige directeur demonstreerde de douchedeur die dichtdeed zonder druppelverlies.
+nl_audio/01580.wav|douche
+nl_audio/01581.wav|werkdag
+nl_audio/01582.wav|kitranden
+nl_audio/01583.wav|toilet
+nl_audio/01584.wav|aangifte
+nl_audio/01585.wav|In de kitchenette kookte Karin knoflook-kardemom-kip in koperen ketels.
+nl_audio/01586.wav|champignons
+nl_audio/01587.wav|aangifte
+nl_audio/01588.wav|dakdekkersbedrijf
+nl_audio/01589.wav|elektricien
+nl_audio/01590.wav|De garage heeft een automatische deur die met een afstandsbediening opent.
+nl_audio/01591.wav|Toos testte twintig toiletten terwijl Tom tegelde tot de tegeltaal hem tegenstond.

@@ -1,21 +1,24 @@
-""" from https://github.com/keithito/tacotron """
+_pad        = "_"
+_whitespace = " "
+_punctuation = ";:,.!?¡¿—…«»“”+-–()[]{}<>/\\|@#&*~`<>^%$="
+_letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+_dutch_accented_letters = "áéíóúýäëïöüÿàèòùâêôû"
 
-'''
-Defines the set of symbols used in text input to the model.
-'''
-_pad        = '_'
-_punctuation = ';:,.!?¡¿—…"«»“” '
-_letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎㄲㄸㅃㅆㅉㅏㅓㅗㅜㅡㅣㅐㅔ'
-_letters_ipa = "ɑɐɒæɓʙβɔɕçɗɖðʤəɘɚɛɜɝɞɟʄɡɠɢʛɦɧħɥʜɨɪʝɭɬɫɮʟɱɯɰŋɳɲɴøɵɸθœɶʘɹɺɾɻʀʁɽʂʃʈʧʉʊʋⱱʌɣɤʍχʎʏʑʐʒʔʡʕʢǀǁǂǃˈˌːˑʼʴʰʱʲʷˠˤ˞↓↑→↗↘'̩'ᵻ"
+# Core Dutch IPA
+_dutch_ipa = "' ()abdefhijklmnoprstuvwxyzøŋœɑɒɔəɛɜɡɣɪɲɵɹɾʃʊʋʌʒʲˈˌː'' ()abdefhijklmnoprstvwyzŋœɑɔəɛɜɡɪʃʊʋˈˌːθ'"
 
-'''# korean_cleaners
-_pad        = '_'
-_punctuation = ',.!?…~'
-_letters = 'ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎㄲㄸㅃㅆㅉㅏㅓㅗㅜㅡㅣㅐㅔ '
-'''
+# Diacritics and suprasegmentals (needed to avoid KeyErrors!)
+_dutch_diacritics = "ˈˌː̥̩̃"
 
-# Export all symbols:
-symbols = [_pad] + list(_punctuation) + list(_letters) + list(_letters_ipa)
+# Export all symbols
+symbols = (
+    [_whitespace] +
+    [_pad] +
+    list(_punctuation) +
+    list(_letters) +
+    list(_dutch_accented_letters) +
+    list(_dutch_ipa) +
+    list(_dutch_diacritics)
+)
 
-# Special symbol ids
 SPACE_ID = symbols.index(" ")

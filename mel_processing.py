@@ -64,9 +64,14 @@ def spectrogram_torch(y, n_fft, sampling_rate, hop_size, win_size, center=False)
     y = y.squeeze(1)
 
     spec = torch.stft(y, n_fft, hop_length=hop_size, win_length=win_size, window=hann_window[wnsize_dtype_device],
-                      center=center, pad_mode='reflect', normalized=False, onesided=True)
+                      center=center, pad_mode='reflect', normalized=False, onesided=True,return_complex=True)
 
     spec = torch.sqrt(spec.pow(2).sum(-1) + 1e-6)
+    if spec.dim() == 3:
+        spec = spec.squeeze(0)
+    if spec.dim() == 2 and spec.size(0) == 1:
+        spec = spec.squeeze(0)
+    
     return spec
 
 
@@ -75,7 +80,13 @@ def spec_to_mel_torch(spec, n_fft, num_mels, sampling_rate, fmin, fmax):
     dtype_device = str(spec.dtype) + '_' + str(spec.device)
     fmax_dtype_device = str(fmax) + '_' + dtype_device
     if fmax_dtype_device not in mel_basis:
-        mel = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)
+        mel = librosa_mel_fn(
+            sr=sampling_rate, 
+            n_fft=n_fft,
+            n_mels=num_mels,
+            fmin= fmin,
+            fmax= fmax
+            )
         mel_basis[fmax_dtype_device] = torch.from_numpy(mel).to(dtype=spec.dtype, device=spec.device)
     spec = torch.matmul(mel_basis[fmax_dtype_device], spec)
     spec = spectral_normalize_torch(spec)
@@ -93,7 +104,13 @@ def mel_spectrogram_torch(y, n_fft, num_mels, sampling_rate, hop_size, win_size,
     fmax_dtype_device = str(fmax) + '_' + dtype_device
     wnsize_dtype_device = str(win_size) + '_' + dtype_device
     if fmax_dtype_device not in mel_basis:
-        mel = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)
+        mel = librosa_mel_fn(
+            sr=sampling_rate, 
+            n_fft=n_fft,
+            n_mels=num_mels,
+            fmin= fmin,
+            fmax= fmax
+            )
         mel_basis[fmax_dtype_device] = torch.from_numpy(mel).to(dtype=y.dtype, device=y.device)
     if wnsize_dtype_device not in hann_window:
         hann_window[wnsize_dtype_device] = torch.hann_window(win_size).to(dtype=y.dtype, device=y.device)
@@ -102,11 +119,33 @@ def mel_spectrogram_torch(y, n_fft, num_mels, sampling_rate, hop_size, win_size,
     y = y.squeeze(1)
 
     spec = torch.stft(y, n_fft, hop_length=hop_size, win_length=win_size, window=hann_window[wnsize_dtype_device],
-                      center=center, pad_mode='reflect', normalized=False, onesided=True)
+                      center=center, pad_mode='reflect', normalized=False, onesided=True,return_complex=True)
 
-    spec = torch.sqrt(spec.pow(2).sum(-1) + 1e-6)
+    # Get magnitude from complex STFT output
+    spec = torch.sqrt(spec.real.pow(2) + spec.imag.pow(2) + 1e-6)
+    print(f"After STFT - spec shape: {spec.shape}")
 
-    spec = torch.matmul(mel_basis[fmax_dtype_device], spec)
+    
+    if spec.dim() == 3:  # [batch, time, freq] or [batch, freq, time]
+        # Check if freq_bins is in the middle dimension
+        if spec.size(1) == n_fft // 2 + 1:
+            # [batch, freq, time] -> transpose to [batch, time, freq]
+            spec = spec.transpose(1, 2)
+        
+        # Reshape to 2D by combining batch and time dimensions
+        batch_size, time_steps, freq_bins = spec.shape
+        spec = spec.reshape(-1, freq_bins).t()  # [freq_bins, batch*time]
+        
+        # Apply mel transform
+        spec = torch.matmul(mel_basis[fmax_dtype_device], spec)  # [n_mels, batch*time]
+        
+        # Reshape back to 3D
+        spec = spec.view(num_mels, batch_size, time_steps)
+        spec = spec.permute(1, 0, 2)  # [batch, n_mels, time]
+    else:
+        if spec.size(0) != n_fft // 2 + 1:
+            spec = spec.transpose(0, 1)
+        spec = torch.matmul(mel_basis[fmax_dtype_device], spec)
+
     spec = spectral_normalize_torch(spec)
-
     return spec

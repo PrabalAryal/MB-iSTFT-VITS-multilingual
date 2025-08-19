@@ -23,3 +23,4 @@ if __name__ == '__main__':
     new_filelist = filelist + "." + args.out_extension
     with open(new_filelist, "w", encoding="utf-8") as f:
       f.writelines(["|".join(x) + "\n" for x in filepaths_and_text])
+      

@@ -42,21 +42,18 @@ class TextAudioLoader(torch.utils.data.Dataset):
         """
         Filter text & store spec lengths
         """
-        # Store spectrogram lengths for Bucketing
-        # wav_length ~= file_size / (wav_channels * Bytes per dim) = file_size / (1 * 2)
-        # spec_length = wav_length // hop_length
-
         audiopaths_and_text_new = []
         lengths = []
         for audiopath, text in self.audiopaths_and_text:
             if self.min_text_len <= len(text) and len(text) <= self.max_text_len:
-                audiopaths_and_text_new.append([audiopath, text])
-                lengths.append(os.path.getsize(audiopath) // (2 * self.hop_length))
+                # Add an additional check for file existence and size
+                if os.path.exists(audiopath) and os.path.getsize(audiopath) > self.hop_length * 2: # Check if file is long enough for at least one frame
+                    audiopaths_and_text_new.append([audiopath, text])
+                    lengths.append(os.path.getsize(audiopath) // (2 * self.hop_length))
         self.audiopaths_and_text = audiopaths_and_text_new
         self.lengths = lengths
 
     def get_audio_text_pair(self, audiopath_and_text):
-        # separate filename and text
         audiopath, text = audiopath_and_text[0], audiopath_and_text[1]
         text = self.get_text(text)
         spec, wav = self.get_audio(audiopath)
@@ -70,6 +67,8 @@ class TextAudioLoader(torch.utils.data.Dataset):
         audio_norm = audio / self.max_wav_value
         audio_norm = audio_norm.unsqueeze(0)
         spec_filename = filename.replace(".wav", ".spec.pt")
+        
+        # --- FIX: ADD CHECK BEFORE LOADING/GENERATING SPECTROGRAM ---
         if os.path.exists(spec_filename):
             spec = torch.load(spec_filename)
         else:
@@ -78,6 +77,13 @@ class TextAudioLoader(torch.utils.data.Dataset):
                 center=False)
             spec = torch.squeeze(spec, 0)
             torch.save(spec, spec_filename)
+        
+        # --- FIX: CHECK SPECTROGRAM SHAPE FOR VALIDITY ---
+        if spec.dim() < 2 or spec.size(1) < 1:
+            print(f"WARNING: Spectrogram for file {filename} is malformed.")
+            print(f"Spectrogram size: {spec.size()}")
+            raise ValueError(f"Skipping malformed spectrogram for file: {filename}")
+
         return spec, audio_norm
 
     def get_text(self, text):
@@ -96,57 +102,75 @@ class TextAudioLoader(torch.utils.data.Dataset):
     def __len__(self):
         return len(self.audiopaths_and_text)
 
+# The rest of the classes (TextAudioCollate, TextAudioSpeakerLoader, etc.) remain unchanged.
+
 
 class TextAudioCollate():
-    """ Zero-pads model inputs and targets
+    """ Zero-pads model inputs and targets with configurable padding multiple
     """
-    def __init__(self, return_ids=False):
+    def __init__(self, return_ids=False, pad_multiple=8):
         self.return_ids = return_ids
+        self.pad_multiple = pad_multiple
+
+    def pad_to_multiple(self, x, multiple):
+        """Pad length to multiple"""
+        if x % multiple != 0:
+            x = x + multiple - (x % multiple)
+        return x
 
     def __call__(self, batch):
-        """Collate's training batch from normalized text and aduio
-        PARAMS
-        ------
-        batch: [text_normalized, spec_normalized, wav_normalized]
-        """
-        # Right zero-pad all one-hot text sequences to max input length
-        _, ids_sorted_decreasing = torch.sort(
-            torch.LongTensor([x[1].size(1) for x in batch]),
-            dim=0, descending=True)
+        """Collate's training batch from normalized text and audio"""
+        if len(batch) == 0:
+            raise ValueError("Received empty batch")
 
-        max_text_len = max([len(x[0]) for x in batch])
-        max_spec_len = max([x[1].size(1) for x in batch])
-        max_wav_len = max([x[2].size(1) for x in batch])
+        # Verify batch items
+        for i, x in enumerate(batch):
+            if not isinstance(x, (list, tuple)) or len(x) != 3:  # text, spec, wav
+                raise ValueError(f"Invalid batch item at index {i}: {x}")
+            if not all(isinstance(t, torch.Tensor) for t in x):
+                raise ValueError(f"All items must be tensors at index {i}")
 
+        # Get lengths with padding
+        max_text_len = self.pad_to_multiple(max(len(x[0]) for x in batch), self.pad_multiple)
+        max_spec_len = self.pad_to_multiple(max(x[1].size(1) for x in batch), self.pad_multiple)
+        max_wav_len = self.pad_to_multiple(max(x[2].size(1) for x in batch), self.pad_multiple)
+
+        # Sort by spec length for packing
+        spec_lengths = torch.LongTensor([x[1].size(1) for x in batch])
+        spec_length_ids = torch.argsort(spec_lengths, descending=True)
+
+        # Initialize tensors
         text_lengths = torch.LongTensor(len(batch))
         spec_lengths = torch.LongTensor(len(batch))
         wav_lengths = torch.LongTensor(len(batch))
 
-        text_padded = torch.LongTensor(len(batch), max_text_len)
-        spec_padded = torch.FloatTensor(len(batch), batch[0][1].size(0), max_spec_len)
-        wav_padded = torch.FloatTensor(len(batch), 1, max_wav_len)
-        text_padded.zero_()
-        spec_padded.zero_()
-        wav_padded.zero_()
-        for i in range(len(ids_sorted_decreasing)):
-            row = batch[ids_sorted_decreasing[i]]
+        text_padded = torch.LongTensor(len(batch), max_text_len).zero_()
+        spec_padded = torch.FloatTensor(len(batch), batch[0][1].size(0), max_spec_len).zero_()
+        wav_padded = torch.FloatTensor(len(batch), 1, max_wav_len).zero_()
+
+        # Fill padded tensors
+        for i, idx in enumerate(spec_length_ids):
+            row = batch[idx]
 
             text = row[0]
             text_padded[i, :text.size(0)] = text
             text_lengths[i] = text.size(0)
 
             spec = row[1]
+            if spec.dim() != 2:
+                raise ValueError(f"Spectrogram must be 2D, got shape {spec.size()}")
             spec_padded[i, :, :spec.size(1)] = spec
             spec_lengths[i] = spec.size(1)
 
             wav = row[2]
+            if wav.dim() != 2:
+                raise ValueError(f"Waveform must be 2D, got shape {wav.size()}")
             wav_padded[i, :, :wav.size(1)] = wav
             wav_lengths[i] = wav.size(1)
 
         if self.return_ids:
-            return text_padded, text_lengths, spec_padded, spec_lengths, wav_padded, wav_lengths, ids_sorted_decreasing
+            return text_padded, text_lengths, spec_padded, spec_lengths, wav_padded, wav_lengths, spec_length_ids
         return text_padded, text_lengths, spec_padded, spec_lengths, wav_padded, wav_lengths
-
 
 """Multi speaker version"""
 class TextAudioSpeakerLoader(torch.utils.data.Dataset):
@@ -233,7 +257,16 @@ class TextAudioSpeakerLoader(torch.utils.data.Dataset):
         return sid
 
     def __getitem__(self, index):
-        return self.get_audio_text_speaker_pair(self.audiopaths_sid_text[index])
+        # --- DEBUG: ADD PRINT STATEMENT HERE ---
+        try:
+            item = self.get_audio_text_speaker_pair(self.audiopaths_sid_text[index])
+            print(f"TextAudioSpeakerLoader: Processing index {index}. Item length: {len(item)}")
+            return item
+        except IndexError as e:
+            print(f"TextAudioSpeakerLoader: IndexError at index {index}. Original error: {e}")
+            print(f"Problematic audiopath_sid_text: {self.audiopaths_sid_text[index]}")
+            raise
+
 
     def __len__(self):
         return len(self.audiopaths_sid_text)
@@ -251,10 +284,35 @@ class TextAudioSpeakerCollate():
         ------
         batch: [text_normalized, spec_normalized, wav_normalized, sid]
         """
-        # Right zero-pad all one-hot text sequences to max input length
-        _, ids_sorted_decreasing = torch.sort(
-            torch.LongTensor([x[1].size(1) for x in batch]),
-            dim=0, descending=True)
+        # --- DEBUG: ADD PRINT STATEMENTS HERE ---
+        print("\n--- TextAudioSpeakerCollate.__call__ DEBUG ---")
+        print(f"Batch size: {len(batch)}")
+        if len(batch) > 0:
+            first_item = batch[0]
+            print(f"First item in batch is of type: {type(first_item)}")
+            print(f"First item in batch length: {len(first_item)}")
+            for i, x in enumerate(first_item):
+                if isinstance(x, torch.Tensor):
+                    print(f"  Item {i} is a tensor with size: {x.size()}")
+                else:
+                    print(f"  Item {i} is not a tensor, its type is: {type(x)}")
+        
+        # Check for malformed items in the batch
+        for i, x in enumerate(batch):
+            if not isinstance(x, (list, tuple)) or len(x) < 2:
+                print(f"ERROR: Malformed item found at batch index {i}. Item: {x}")
+                raise ValueError("Malformed batch item detected. Check your data and `__getitem__` method.")
+
+        try:
+            # Right zero-pad all one-hot text sequences to max input length
+            _, ids_sorted_decreasing = torch.sort(
+                torch.LongTensor([x[1].size(1) for x in batch]),
+                dim=0, descending=True)
+        except IndexError as e:
+            print("ERROR: IndexError occurred during torch.sort in TextAudioSpeakerCollate.")
+            print("This usually means one of the items in the batch (x[1]) is not a 2D tensor or has an unexpected shape.")
+            print(f"Original Error: {e}")
+            raise
 
         max_text_len = max([len(x[0]) for x in batch])
         max_spec_len = max([x[1].size(1) for x in batch])
