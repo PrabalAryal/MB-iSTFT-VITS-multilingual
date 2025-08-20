@@ -1,20 +1,19 @@
 # MB-iSTFT-VITS with Multilingual Implementations
-<img src="./fig/with_tsukuyomi_chan.png" width="100%">
 
-This is an multilingual implementation of [MB-iSTFT-VITS](https://github.com/MasayaKawamura/MB-iSTFT-VITS) to support conversion to various languages. MB-iSTFT-VITS showed 4.1 times faster inference time compared with original VITS! </br>
-Preprocessed Japanese Single Speaker training material is provided with [つくよみちゃんコーパス(tsukuyomi-chan corpus).](https://tyc.rei-yumesaki.net/material/corpus/) You need to download the corpus and place 100 `.wav` files to `./tsukuyomi_raw`. 
-</br>
+<br>
+This is an implementation of (https://github.com/misakiudon/MB-iSTFT-VITS-multilingual) to support conversion to various languages. MB-iSTFT-VITS showed 4.1 times faster inference time compared with original VITS! for Dutch Language </br>
 
-- Currently Supported: Japanese / Korean
-- Chinese / CJKE / and other languages will be updated very soon!
+
+- Currently Supported: Dutch
+- 
 
 
 # How to use
-Python >= 3.6 (Python == 3.7 is suggested)
+Python >= 3.6 (Python == 3.10 is suggested)
 
 ## Clone this repository
 ```sh
-git clone https://github.com/misakiudon/MB-iSTFT-VITS-multilingual.git
+git clone git@github.com:PrabalAryal/MB-iSTFT-VITS-multilingual.git
 ```
 
 ## Install requirements
@@ -31,7 +30,7 @@ path/to/XXX.wav|transcript
 ```
 - Example
 ```
-dataset/001.wav|こんにちは。
+dataset/001.wav|het
 ```
 
 ### Mutiple speakers
@@ -41,22 +40,19 @@ path/to/XXX.wav|speaker id|transcript
 ```
 - Example
 ```
-dataset/001.wav|0|こんにちは。
+dataset/001.wav|0|het
 ```
 
 ## Preprocess
-Japanese preprocessed manifest data is provided with `filelists/filelist_train2.txt.cleaned` and `filelists/filelist_val2.txt.cleaned`.
-```sh
+Run hf_to_req_dataset.py if your dataset is in huggingface
+then run convert_to_22050.py to convert audio to required '22050Hz / Mono / PCM-16` format
+
 # Single speaker
-python preprocess.py --text_index 1 --filelists path/to/filelist_train.txt path/to/filelist_val.txt --text_cleaners 'japanese_cleaners'
+python preprocess.py --text_index 1 --filelists path/to/filelist_train.txt path/to/filelist_val.txt --text_cleaners 'Duttch_Cleaners'
 
 # Mutiple speakers
-python preprocess.py --text_index 2 --filelists path/to/filelist_train.txt path/to/filelist_val.txt --text_cleaners 'japanese_cleaners'
+python preprocess.py --text_index 2 --filelists path/to/filelist_train.txt path/to/filelist_val.txt --text_cleaners 'Dutch_Cleaners'
 ```
-
-If your speech file is either not `22050Hz / Mono / PCM-16`, the you should resample your .wav file first. 
-```sh
-python convert_to_22050.py --in_path path/to/original_wav_dir/ --out_path path/to/output_wav_dir/
 ```
 
 ## Build monotonic alignment search
@@ -90,12 +86,14 @@ python train_latest_ms.py -c <config> -m <folder>
 ```
 In the case of training MB-iSTFT-VITS with Japanese tutorial corpus, run the following script. Resume training from lastest checkpoint is automatic.
 ```sh
-python train_latest.py -c configs/tsukuyomi_chan.json -m tsukuyomi
+python train_latest.py -c configs/dutch_nl.json -m t<folder>
 ```
 
 After the training, you can check inference audio using [inference.ipynb](inference.ipynb)
 
 ## References
+
 - https://github.com/MasayaKawamura/MB-iSTFT-VITS
 - https://github.com/CjangCjengh/vits
 - https://github.com/Francis-Komizu/VITS
+- https://github.com/misakiudon/MB-iSTFT-VITS-multilingual
